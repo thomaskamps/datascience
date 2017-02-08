@@ -6,8 +6,8 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>De Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Wed, 08 Feb 2017 08:45:09 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Feb 2017 08:45:09 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Feb 2017 10:23:19 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Feb 2017 10:23:19 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://static3.persgroep.net/volkskrant/static/img/logos/volkskrant/rss_logo.png?r=de9ef05e</url>
@@ -15,17 +15,6 @@
       <width>16</width>
       <height>16</height>
     </image>
-    <item>
-      <title>Kunnen we leren van de geschiedenis?</title>
-      <link>http://www.volkskrant.nl/opinie/kunnen-we-leren-van-de-geschiedenis~a4459203/</link>
-      <description>'Er staan twee mannen in de rij voor de gaskamer. Zegt de ene man tegen de andere: Ze gebruiken hier geen Zyklon B, dus die holocaustvergelijking van jou gaat mank.' Gelezen op Twitter. Een paar jaar geleden werd iedere vergelijking met Hitler afgedaan als een Godwin oftewel een bewijs van retorisch onvermogen. Deze dagen hoor je dat verwijt niet vaak meer. Nu kan niemand om de vraag heen of de ve</description>
-      <pubDate>Wed, 08 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Heleen Mees</author>
-      <guid isPermaLink="false">4459203</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/bc4aa898-f71c-4b06-997d-7ec237061ed3?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/bc4aa898-f71c-4b06-997d-7ec237061ed3?width=397&amp;height=289" />
-      </media:content>
-    </item>
     <item>
       <title>Belgische specialisten willen nieuw betalingssysteem</title>
       <link>http://www.volkskrant.nl/wetenschap/belgische-specialisten-willen-nieuw-betalingssysteem~a4459280/</link>
@@ -35,6 +24,17 @@
       <guid isPermaLink="false">4459280</guid>
       <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/da5d0b62-1dc8-46f3-a1cf-f61c75afa9f4?width=397&amp;height=289">
         <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/da5d0b62-1dc8-46f3-a1cf-f61c75afa9f4?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>Kunnen we leren van de geschiedenis?</title>
+      <link>http://www.volkskrant.nl/opinie/kunnen-we-leren-van-de-geschiedenis~a4459203/</link>
+      <description>'Er staan twee mannen in de rij voor de gaskamer. Zegt de ene man tegen de andere: Ze gebruiken hier geen Zyklon B, dus die holocaustvergelijking van jou gaat mank.' Gelezen op Twitter. Een paar jaar geleden werd iedere vergelijking met Hitler afgedaan als een Godwin oftewel een bewijs van retorisch onvermogen. Deze dagen hoor je dat verwijt niet vaak meer. Nu kan niemand om de vraag heen of de ve</description>
+      <pubDate>Wed, 08 Feb 2017 01:00:00 GMT</pubDate>
+      <author>Door: Heleen Mees</author>
+      <guid isPermaLink="false">4459203</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/bc4aa898-f71c-4b06-997d-7ec237061ed3?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/bc4aa898-f71c-4b06-997d-7ec237061ed3?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -181,17 +181,6 @@
       </media:content>
     </item>
     <item>
-      <title>Omgaan met stress, is het aan de mens wel besteed?</title>
-      <link>http://www.volkskrant.nl/wetenschap/omgaan-met-stress-is-het-aan-de-mens-wel-besteed~a4455948/</link>
-      <description>De mens heeft het brein van een vis als het op stress aankomt: hij is niet toegerust op de moderne tijd. Vandaar de toename van burn-outs en depressies; we worden massaal ziek van werkdruk, prikkels en slecht nieuws. 'Te veel informatie is slecht voor de gezondheid', meldde de Volkskrant op 15 oktober 1996. Volgens een onderzoek door Britse psychologen, uitgevoerd op initiatief van het internation</description>
-      <pubDate>Sat, 04 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Wilma de Rek</author>
-      <guid isPermaLink="false">4455948</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/4559c102-9980-4b21-8822-78e0edd8bbfb?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/4559c102-9980-4b21-8822-78e0edd8bbfb?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
       <title>Waarom is er nog steeds geen alzheimerpil?</title>
       <link>http://www.volkskrant.nl/wetenschap/waarom-is-er-nog-steeds-geen-alzheimerpil~a4457512/</link>
       <description>Wetenschappers roepen het al jaren: nog even en dan kunnen we de ziekte van Alzheimer genezen. Dus waarom is die alzheimerpil er nog steeds niet? Het is begin november 2016. De gebeurtenis van het jaar komt eraan, melden investeerders in de medicijnmarkt. Artsen en onderzoekers uit de hele wereld kijken reikhalzend uit naar nieuws over solanezumab. 'Sola', zeggen wetenschappers al. Een veelbeloven</description>
@@ -214,14 +203,14 @@
       </media:content>
     </item>
     <item>
-      <title>'Ik gebruik auto's altijd als metafoor voor veroudering'</title>
-      <link>http://www.volkskrant.nl/magazine/-ik-gebruik-auto-s-altijd-als-metafoor-voor-veroudering~a4457536/</link>
-      <description>Een pil die ouder worden tegenhoudt, is niet genoeg, betoogt de powervrouw van de verouderingswetenschap Andrea Maier. Hoe impressionisme de zorg vooruit kan helpen. Andrea Maier nipt aan haar koffie, kijkt de verslaggever strak aan en draait er niet omheen. 'Je ziet er een stuk slechter uit dan tien jaar geleden. Ik zie je gewoon achteruitgaan.' Dan zet ze pretogen op en lacht onbedaarlijk. 'Kijk</description>
+      <title>Omgaan met stress, is het aan de mens wel besteed?</title>
+      <link>http://www.volkskrant.nl/wetenschap/omgaan-met-stress-is-het-aan-de-mens-wel-besteed~a4455948/</link>
+      <description>De mens heeft het brein van een vis als het op stress aankomt: hij is niet toegerust op de moderne tijd. Vandaar de toename van burn-outs en depressies; we worden massaal ziek van werkdruk, prikkels en slecht nieuws. 'Te veel informatie is slecht voor de gezondheid', meldde de Volkskrant op 15 oktober 1996. Volgens een onderzoek door Britse psychologen, uitgevoerd op initiatief van het internation</description>
       <pubDate>Sat, 04 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Maarten Keulemans</author>
-      <guid isPermaLink="false">4457536</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/aa416b91-6a40-4364-858b-f4aad2a2c898?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/aa416b91-6a40-4364-858b-f4aad2a2c898?width=397&amp;height=289" />
+      <author>Door: Wilma de Rek</author>
+      <guid isPermaLink="false">4455948</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/4559c102-9980-4b21-8822-78e0edd8bbfb?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/4559c102-9980-4b21-8822-78e0edd8bbfb?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -242,6 +231,17 @@
       <pubDate>Sat, 04 Feb 2017 01:00:00 GMT</pubDate>
       <author>Door: Anne-Gine Goemans</author>
       <guid isPermaLink="false">4456480</guid>
+    </item>
+    <item>
+      <title>'Ik gebruik auto's altijd als metafoor voor veroudering'</title>
+      <link>http://www.volkskrant.nl/magazine/-ik-gebruik-auto-s-altijd-als-metafoor-voor-veroudering~a4457536/</link>
+      <description>Een pil die ouder worden tegenhoudt, is niet genoeg, betoogt de powervrouw van de verouderingswetenschap Andrea Maier. Hoe impressionisme de zorg vooruit kan helpen. Andrea Maier nipt aan haar koffie, kijkt de verslaggever strak aan en draait er niet omheen. 'Je ziet er een stuk slechter uit dan tien jaar geleden. Ik zie je gewoon achteruitgaan.' Dan zet ze pretogen op en lacht onbedaarlijk. 'Kijk</description>
+      <pubDate>Sat, 04 Feb 2017 01:00:00 GMT</pubDate>
+      <author>Door: Maarten Keulemans</author>
+      <guid isPermaLink="false">4457536</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/aa416b91-6a40-4364-858b-f4aad2a2c898?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/aa416b91-6a40-4364-858b-f4aad2a2c898?width=397&amp;height=289" />
+      </media:content>
     </item>
     <item>
       <title>Trump regeert met gestrekt been</title>

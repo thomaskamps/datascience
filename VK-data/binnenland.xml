@@ -6,8 +6,8 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>De Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Wed, 08 Feb 2017 08:39:36 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Feb 2017 08:39:36 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Feb 2017 10:23:17 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Feb 2017 10:23:17 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://static3.persgroep.net/volkskrant/static/img/logos/volkskrant/rss_logo.png?r=de9ef05e</url>
@@ -15,6 +15,50 @@
       <width>16</width>
       <height>16</height>
     </image>
+    <item>
+      <title>Wie kan met wie regeren? Bekijk het in deze coalitiewijzer</title>
+      <link>http://www.volkskrant.nl/politiek/wie-kan-met-wie-regeren-bekijk-het-in-deze-coalitiewijzer~a4459611/</link>
+      <description>Wie kan met wie? Stel hier je eigen coalitie samen en bekijk welke partijen eigenlijk inhoudelijk door één deur kunnen - of juist niet.</description>
+      <pubDate>Wed, 08 Feb 2017 10:02:00 GMT</pubDate>
+      <author>Door: Redactie</author>
+      <guid isPermaLink="false">4459611</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/aa633a0b-a918-4d2c-8a18-7dad685442c1?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/aa633a0b-a918-4d2c-8a18-7dad685442c1?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>Verkiezingsblog - AOW-leeftijd breekpunt voor 50Plus: 'Anders niet in kabinet'</title>
+      <link>http://www.volkskrant.nl/binnenland/verkiezingsblog-aow-leeftijd-breekpunt-voor-50plus-anders-niet-in-kabinet~a4449553/</link>
+      <description>De campagne is losgebarsten: op 15 maart kiest Nederland een nieuwe Tweede Kamer en politici doen er alles aan om in de gunst van de kiezer te komen. Volg alle nieuwtjes, relletjes en ontwikkelingen in dit verkiezingsblog.</description>
+      <pubDate>Wed, 08 Feb 2017 09:28:00 GMT</pubDate>
+      <author>Door: Redactie</author>
+      <guid isPermaLink="false">4449553</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/2cacc97d-2fc7-454f-999e-b1db85c393bc?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/2cacc97d-2fc7-454f-999e-b1db85c393bc?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>Betaalt tweede werkende ouder 65 procent aan belasting?</title>
+      <link>http://www.volkskrant.nl/politiek/betaalt-tweede-werkende-ouder-65-procent-aan-belasting~a4458731/</link>
+      <description>De Volkskrant checkt in aanloop naar de verkiezingen op 15 maart politieke uitspraken op waarheidsgehalte. Vandaag: betaalt de tweede ouder 65 procent van zijn inkomen aan belasting, zoals D66 beweert? D66 wil een werkbonus van 500 euro voor alle werkenden. Dit, zo legde lijsttrekker Alexander Pechtold uit, om het tweeverdienersschap te stimuleren. Nu betaalt 'in sommige gezinnen de tweede ouder 6</description>
+      <pubDate>Wed, 08 Feb 2017 09:14:00 GMT</pubDate>
+      <author>Door: Jennie Barbier</author>
+      <guid isPermaLink="false">4458731</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/186dc400-bd04-43f5-9935-39a8dbef8730?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/186dc400-bd04-43f5-9935-39a8dbef8730?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>Wat nou tulpen en kaas: deze machines leveren Holland veel meer op</title>
+      <link>http://www.volkskrant.nl/binnenland/wat-nou-tulpen-en-kaas-deze-machines-leveren-holland-veel-meer-op~a4459338/</link>
+      <description>Nederland is geen tulpenland maar een machineland. Machines vormen de grootste inkomenspost op onze exportrekening. De Nederlandse export moet het hebben van machines. Niet tulpen, niet kaas, niet aardgas of cannabis zijn de grote winstmakers van de Nederlandse exportindustrie. De uitvoer van machines met het label 'Made in Holland' leverde de Nederlandse economie in 2015 veel meer op dan die beke</description>
+      <pubDate>Wed, 08 Feb 2017 05:00:00 GMT</pubDate>
+      <author>Door: Marc van den Eerenbeemt</author>
+      <guid isPermaLink="false">4459338</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/d0a8d052-d18a-4a9c-9aca-8f444495e654?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/d0a8d052-d18a-4a9c-9aca-8f444495e654?width=397&amp;height=289" />
+      </media:content>
+    </item>
     <item>
       <title>Wie houdt er toezicht op het tappen van de overheid?</title>
       <link>http://www.volkskrant.nl/politiek/wie-houdt-er-toezicht-op-het-tappen-van-de-overheid~a4459246/</link>
@@ -37,17 +81,6 @@
       </media:content>
     </item>
     <item>
-      <title>Sillicon Valley: technologie, start-ups en immigranten</title>
-      <link>http://www.volkskrant.nl/tech/sillicon-valley-technologie-start-ups-en-immigranten~a4459332/</link>
-      <description>Bij bedrijven uit Silicon Valley, zoals Google, Apple, IBM, Intel, Facebook, werken relatief veel mensen die niet uit de Verenigde Staten komen. Het aandeel immigranten is er hoger dan in de meeste andere Amerikaanse bedrijfstakken. Ruim 37 procent van de meer dan 3 miljoen inwoners van Silicon Valley is geboren in het buitenland, blijkt uit de zogeheten Silicon Valley Index. Veruit de meesten van</description>
-      <pubDate>Wed, 08 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door:Eric Van Den Outenaar</author>
-      <guid isPermaLink="false">4459332</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/b4f65be0-e328-40a4-b2fe-0948d61d5615?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/b4f65be0-e328-40a4-b2fe-0948d61d5615?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
       <title>Een uitzonderlijk fenomeen: één basisschool, zeven meesters voor de klas</title>
       <link>http://www.volkskrant.nl/opinie/een-uitzonderlijk-fenomeen-een-basisschool-zeven-meesters-voor-de-klas~a4459275/</link>
       <description>Een forenzendorp bij Almelo koestert al decennia een steeds uitzonderlijker fenomeen: een openbare basisschool met zeven mannelijke leerkrachten. Widerode heet de school. Zij staat in Wierden in een onopvallende nieuwbouwwijk en we zouden dit ongelooflijke feit misschien nooit hebben vernomen als de mannen laatst niet breed gefotografeerd waren in dagblad Tubantia: Peter, Rudi, Marco, Rik, Mike, H</description>
@@ -56,6 +89,17 @@
       <guid isPermaLink="false">4459275</guid>
       <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/99a5b59d-7474-459b-acd8-bf43383b1543?width=397&amp;height=289">
         <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/99a5b59d-7474-459b-acd8-bf43383b1543?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>Sillicon Valley: technologie, start-ups en immigranten</title>
+      <link>http://www.volkskrant.nl/tech/sillicon-valley-technologie-start-ups-en-immigranten~a4459332/</link>
+      <description>Bij bedrijven uit Silicon Valley, zoals Google, Apple, IBM, Intel, Facebook, werken relatief veel mensen die niet uit de Verenigde Staten komen. Het aandeel immigranten is er hoger dan in de meeste andere Amerikaanse bedrijfstakken. Ruim 37 procent van de meer dan 3 miljoen inwoners van Silicon Valley is geboren in het buitenland, blijkt uit de zogeheten Silicon Valley Index. Veruit de meesten van</description>
+      <pubDate>Wed, 08 Feb 2017 01:00:00 GMT</pubDate>
+      <author>Door:Eric Van Den Outenaar</author>
+      <guid isPermaLink="false">4459332</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/b4f65be0-e328-40a4-b2fe-0948d61d5615?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/b4f65be0-e328-40a4-b2fe-0948d61d5615?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -81,17 +125,6 @@
       </media:content>
     </item>
     <item>
-      <title>Wat nou tulpen een kaas: deze 'Made in Holland'-machines leveren ons veel meer op</title>
-      <link>http://www.volkskrant.nl/binnenland/wat-nou-tulpen-een-kaas-deze-made-in-holland-machines-leveren-ons-veel-meer-op~a4459338/</link>
-      <description>Nederland is geen tulpenland maar een machineland. Machines vormen de grootste inkomenspost op onze exportrekening. De Nederlandse export moet het hebben van machines. Niet tulpen, niet kaas, niet aardgas of cannabis zijn de grote winstmakers van de Nederlandse exportindustrie. De uitvoer van machines met het label 'Made in Holland' leverde de Nederlandse economie in 2015 veel meer op dan die beke</description>
-      <pubDate>Wed, 08 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Marc van den Eerenbeemt</author>
-      <guid isPermaLink="false">4459338</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/d0a8d052-d18a-4a9c-9aca-8f444495e654?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/d0a8d052-d18a-4a9c-9aca-8f444495e654?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
       <title>Het weer: vooral koude nachten</title>
       <link>http://www.volkskrant.nl/binnenland/het-weer-vooral-koude-nachten~a4459169/</link>
       <description>In het zuiden van het land zou in de vroege ochtend nog wat lichte neerslag, mogelijk ook natte sneeuw kunnen vallen. Verspreid over het land kan in de ochtend gladheid voorkomen. Verder is het droog vandaag en van het noorden uit breekt de zon steeds vaker door. De temperatuur loopt op tot rond het vriespunt; in het noordoosten blijft het misschien licht vriezen en in het zuiden wordt het +2. Er</description>
@@ -100,17 +133,6 @@
       <guid isPermaLink="false">4459169</guid>
       <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/ca5494c2-baeb-4197-a9f1-f0f52f8d70bc?width=397&amp;height=289">
         <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/ca5494c2-baeb-4197-a9f1-f0f52f8d70bc?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
-      <title>Stemwijzers bieden hulp in tijden van keuzestress</title>
-      <link>http://www.volkskrant.nl/politiek/stemwijzers-bieden-hulp-in-tijden-van-keuzestress~a4459260/</link>
-      <description>Veel kiezers zijn het spoor bijster: welke partij krijgt hun stem? Vijf weken voor de Kamerverkiezingen zweeft nog driekwart. Bieden de online stemhulpen uitkomst? Online stemhulpen krijgen dit jaar meer invloed op de uitslag van de Tweede Kamerverkiezingen dan voorheen. Nu de kiezer zweeft als nooit tevoren zullen meer mensen hun keuze laten bepalen door kieswijzers, zeggen experts. Maar de kwali</description>
-      <pubDate>Wed, 08 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Dion Mebius</author>
-      <guid isPermaLink="false">4459260</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/c071f1ea-d545-446c-8565-354e3a831d40?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/c071f1ea-d545-446c-8565-354e3a831d40?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -136,6 +158,28 @@
       </media:content>
     </item>
     <item>
+      <title>Stemwijzers bieden hulp in tijden van keuzestress</title>
+      <link>http://www.volkskrant.nl/politiek/stemwijzers-bieden-hulp-in-tijden-van-keuzestress~a4459260/</link>
+      <description>Veel kiezers zijn het spoor bijster: welke partij krijgt hun stem? Vijf weken voor de Kamerverkiezingen zweeft nog driekwart. Bieden de online stemhulpen uitkomst? Online stemhulpen krijgen dit jaar meer invloed op de uitslag van de Tweede Kamerverkiezingen dan voorheen. Nu de kiezer zweeft als nooit tevoren zullen meer mensen hun keuze laten bepalen door kieswijzers, zeggen experts. Maar de kwali</description>
+      <pubDate>Wed, 08 Feb 2017 01:00:00 GMT</pubDate>
+      <author>Door: Dion Mebius</author>
+      <guid isPermaLink="false">4459260</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/c071f1ea-d545-446c-8565-354e3a831d40?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/c071f1ea-d545-446c-8565-354e3a831d40?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>Na de Stemwijzer belandde ik in een crisis</title>
+      <link>http://www.volkskrant.nl/politiek/na-de-stemwijzer-belandde-ik-in-een-crisis~a4459284/</link>
+      <description>Aangezien ik bij de zeventig procent zwevende kiezers behoor, stortte ik me gisteren op de nieuwe Stemwijzer. Behalve dat het een leuk familiespel is, hoop je ook dat een gezellig potje Stemwijzen je dichter bij een weloverwogen beslissing zal brengen wanneer je potlood op 15 maart boven het stemformulier zweeft en dat je niet als een zombie je knopen staat te tellen of een muntje omhoog gooit. De</description>
+      <pubDate>Wed, 08 Feb 2017 01:00:00 GMT</pubDate>
+      <author>Door: Bert Wagendorp</author>
+      <guid isPermaLink="false">4459284</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/1f75b446-a289-49ff-91f8-44ce3fa1d662?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/1f75b446-a289-49ff-91f8-44ce3fa1d662?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
       <title>Is er nog mededogen?</title>
       <link>http://www.volkskrant.nl/politiek/is-er-nog-mededogen~a4459167/</link>
       <description>Het klinkt ouderwets, misschien zelfs bijbels: compassie. Toch is er een beweging gaande die er stad na stad mee verovert. Was reclame een thermometer van de samenleving, dan zat het wel snor met die compassie van ons. Supermarkt Jumbo won onlangs de Gouden Loeki, prijs voor de beste reclame, met een tv-commercial die dwars tegen de tijdgeest in gaat. Daarin verricht hoofdpersoon Frank Lammers, op</description>
@@ -155,17 +199,6 @@
       <guid isPermaLink="false">4459244</guid>
       <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/73f57946-8b35-4655-b6aa-bcbcea126c53?width=397&amp;height=289">
         <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/73f57946-8b35-4655-b6aa-bcbcea126c53?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
-      <title>Na de Stemwijzer belandde ik in een crisis</title>
-      <link>http://www.volkskrant.nl/politiek/na-de-stemwijzer-belandde-ik-in-een-crisis~a4459284/</link>
-      <description>Aangezien ik bij de zeventig procent zwevende kiezers behoor, stortte ik me gisteren op de nieuwe Stemwijzer. Behalve dat het een leuk familiespel is, hoop je ook dat een gezellig potje Stemwijzen je dichter bij een weloverwogen beslissing zal brengen wanneer je potlood op 15 maart boven het stemformulier zweeft en dat je niet als een zombie je knopen staat te tellen of een muntje omhoog gooit. De</description>
-      <pubDate>Wed, 08 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Bert Wagendorp</author>
-      <guid isPermaLink="false">4459284</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/1f75b446-a289-49ff-91f8-44ce3fa1d662?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/1f75b446-a289-49ff-91f8-44ce3fa1d662?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -290,17 +323,6 @@
       </media:content>
     </item>
     <item>
-      <title>Verkiezingsblog - Rutte belooft vooral: hij belooft niets meer</title>
-      <link>http://www.volkskrant.nl/politiek/verkiezingsblog-rutte-belooft-vooral-hij-belooft-niets-meer~a4449553/</link>
-      <description>De campagne is losgebarsten: op 15 maart kiest Nederland een nieuwe Tweede Kamer en politici doen er alles aan om in de gunst van de kiezer te komen. Volg alle nieuwtjes, relletjes en ontwikkelingen in dit verkiezingsblog.</description>
-      <pubDate>Tue, 07 Feb 2017 13:01:00 GMT</pubDate>
-      <author>Door: Redactie</author>
-      <guid isPermaLink="false">4449553</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/d7485daf-a6f7-4e44-88c8-66024ec2dc83?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/d7485daf-a6f7-4e44-88c8-66024ec2dc83?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
       <title>Wie is Pauline Krikke, de nieuwe burgemeester van Den Haag?</title>
       <link>http://www.volkskrant.nl/binnenland/wie-is-pauline-krikke-de-nieuwe-burgemeester-van-den-haag~a4459114/</link>
       <description>De wethouders van Amsterdam moesten ooit eens op een trainingsdag een schilderij maken om op basis daarvan hun functioneren te bespreken. Pauline Krikke vond het je reinste flauwekul, daar deed ze niet aan mee. Het typeert de nieuwe burgemeester van Den Haag, zegt Guusje ter Horst, oud-minister, voormalig burgemeester van Nijmegen en destijds in de jaren negentig als Amsterdams wethouder ook aanwe</description>
@@ -367,17 +389,6 @@
       </media:content>
     </item>
     <item>
-      <title>Weerbericht: rond het vriespunt</title>
-      <link>http://www.volkskrant.nl/binnenland/weerbericht-rond-het-vriespunt~a4458698/</link>
-      <description>Vandaag vindt er een weersomslag plaats. Het is veelal bewolkt. Eerst regent het in het zuidwesten van het land licht. Het gebied met neerslag breidt in de loop van de dag uit over de rest van het land. Alleen in het noordoosten blijft het nagenoeg droog. Geleidelijk wint de koude lucht terrein. Dat merken we doordat de oostenwind aantrekt. Met het binnenstromen van koude lucht gaat de neerslag la</description>
-      <pubDate>Tue, 07 Feb 2017 05:00:00 GMT</pubDate>
-      <author>Door: Diana Woei</author>
-      <guid isPermaLink="false">4458698</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/9730afb1-d880-47ba-a153-cd97e4c5b468?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/9730afb1-d880-47ba-a153-cd97e4c5b468?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
       <title>Veilig alternatief voor rubberkorrels in kunstgras was in 2015 al voorhanden</title>
       <link>http://www.volkskrant.nl/binnenland/veilig-alternatief-voor-rubberkorrels-in-kunstgras-was-in-2015-al-voorhanden~a4458828/</link>
       <description>Twee internationaal opererende bedrijven hadden in oktober 2015 al een veilig alternatief beschikbaar voor de rubberen kunstgraskorrels waarvan de veiligheid ter discussie is komen te staan. De bedrijven waren ingesprongen op de nieuwe, strenge regels voor kunstgraskorrels die Nederland aanvankelijk wilde bepleiten bij de Europese Commissie. Mede na intensief protest van de producenten van de rubb</description>
@@ -386,6 +397,17 @@
       <guid isPermaLink="false">4458828</guid>
       <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/fa4119bf-6c0d-4ae7-83d8-4879e01fb29c?width=397&amp;height=289">
         <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/fa4119bf-6c0d-4ae7-83d8-4879e01fb29c?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>Weerbericht: rond het vriespunt</title>
+      <link>http://www.volkskrant.nl/binnenland/weerbericht-rond-het-vriespunt~a4458698/</link>
+      <description>Vandaag vindt er een weersomslag plaats. Het is veelal bewolkt. Eerst regent het in het zuidwesten van het land licht. Het gebied met neerslag breidt in de loop van de dag uit over de rest van het land. Alleen in het noordoosten blijft het nagenoeg droog. Geleidelijk wint de koude lucht terrein. Dat merken we doordat de oostenwind aantrekt. Met het binnenstromen van koude lucht gaat de neerslag la</description>
+      <pubDate>Tue, 07 Feb 2017 05:00:00 GMT</pubDate>
+      <author>Door: Diana Woei</author>
+      <guid isPermaLink="false">4458698</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/9730afb1-d880-47ba-a153-cd97e4c5b468?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/9730afb1-d880-47ba-a153-cd97e4c5b468?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -400,25 +422,14 @@
       </media:content>
     </item>
     <item>
-      <title>'Is dit dan het Aziatische in mij?'</title>
-      <link>http://www.volkskrant.nl/magazine/-is-dit-dan-het-aziatische-in-mij~a4458699/</link>
-      <description>Welke rol speelt afkomst in Nederland? Dat onderzoekt de Volkskrant in een reeks interviews. Harpist Lavinia Meijer (33) vraagt zich af: 'Is dit dan het Aziatische in mij?' In Nederland is Lavinia Meijer een opvallende verschijning. Een Aziatische vrouw die zich onderscheidt met een ongebruikelijk muziekinstrument. Pas als volwassene bezocht ze weer haar geboorteland. 'Ik keek de hele tijd naar di</description>
+      <title>Berouw over de moord op Fortuyn kan niet worden afgedwongen</title>
+      <link>http://www.volkskrant.nl/opinie/berouw-over-de-moord-op-fortuyn-kan-niet-worden-afgedwongen~a4458753/</link>
+      <description>Hoe betreurenswaardig ook: de rechter kan gedragsverandering bij Volkert van der G. niet afdwingen. De vraag of Volkert van der G., de moordenaar van Pim Fortuyn, 'voldoende zijn best heeft gedaan' in de gesprekken met de reclassering is niet te beantwoorden. Ook niet door de Amsterdamse rechters die zich bogen over de eis van het Openbaar Ministerie om zijn niet-coöperatieve houding te bestraffen</description>
       <pubDate>Tue, 07 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Robert Vuijsje</author>
-      <guid isPermaLink="false">4458699</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/36b51969-edc9-4c42-bc46-870ff14588f0?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/36b51969-edc9-4c42-bc46-870ff14588f0?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
-      <title>Jan Wolkers was meester in de kunst van zelfreflectie</title>
-      <link>http://www.volkskrant.nl/boeken/jan-wolkers-was-meester-in-de-kunst-van-zelfreflectie~a4458720/</link>
-      <description>Weinig kunstenaars onderzochten zo gedreven hun eigen leven als Wolkers. Zo klinkt zijn echo ook in mijn voetstap. In zijn atelier op Texel is de tijd stilgezet. Het is alsof Wolkers net is vertrokken om even iets te gaan halen en elk moment kan terugkeren. Op tafel heeft hij een stilleven achtergelaten: potten met penselen, een stapel half uitgeknepen tubes Rembrandtverf, een bakje met kopspijker</description>
-      <pubDate>Tue, 07 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Onno Blom</author>
-      <guid isPermaLink="false">4458720</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/9f825694-9dbb-4b60-8c7f-7b6c59b4e29c?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/9f825694-9dbb-4b60-8c7f-7b6c59b4e29c?width=397&amp;height=289" />
+      <author>Door: Sander van Walsum</author>
+      <guid isPermaLink="false">4458753</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/9fbe1043-2437-4d34-907a-7626fa0e4fd5?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/9fbe1043-2437-4d34-907a-7626fa0e4fd5?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -433,25 +444,14 @@
       </media:content>
     </item>
     <item>
-      <title>Berouw over de moord op Fortuyn kan niet worden afgedwongen</title>
-      <link>http://www.volkskrant.nl/opinie/berouw-over-de-moord-op-fortuyn-kan-niet-worden-afgedwongen~a4458753/</link>
-      <description>Hoe betreurenswaardig ook: de rechter kan gedragsverandering bij Volkert van der G. niet afdwingen. De vraag of Volkert van der G., de moordenaar van Pim Fortuyn, 'voldoende zijn best heeft gedaan' in de gesprekken met de reclassering is niet te beantwoorden. Ook niet door de Amsterdamse rechters die zich bogen over de eis van het Openbaar Ministerie om zijn niet-coöperatieve houding te bestraffen</description>
+      <title>Jan Wolkers was meester in de kunst van zelfreflectie</title>
+      <link>http://www.volkskrant.nl/boeken/jan-wolkers-was-meester-in-de-kunst-van-zelfreflectie~a4458720/</link>
+      <description>Weinig kunstenaars onderzochten zo gedreven hun eigen leven als Wolkers. Zo klinkt zijn echo ook in mijn voetstap. In zijn atelier op Texel is de tijd stilgezet. Het is alsof Wolkers net is vertrokken om even iets te gaan halen en elk moment kan terugkeren. Op tafel heeft hij een stilleven achtergelaten: potten met penselen, een stapel half uitgeknepen tubes Rembrandtverf, een bakje met kopspijker</description>
       <pubDate>Tue, 07 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Sander van Walsum</author>
-      <guid isPermaLink="false">4458753</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/9fbe1043-2437-4d34-907a-7626fa0e4fd5?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/9fbe1043-2437-4d34-907a-7626fa0e4fd5?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
-      <title>Informatie is overal, maar wat is betrouwbaar?</title>
-      <link>http://www.volkskrant.nl/politiek/informatie-is-overal-maar-wat-is-betrouwbaar~a4458761/</link>
-      <description>De Volkskrant volgt tot de verkiezingen veertien Nederlanders die nog niet weten op wie ze gaan stemmen. Deze week: kiezers informeren zich met behulp van veel bronnen. Sociale media mijden zij steeds vaker omdat daar veel 'nepnieuws' op staat, zoals zij tot hun schade en schande ondervinden. Robbert Arentz (32), Ulft Zweeft: tussen alle partijen aan de linkerkant 'Ik haal het nieuws overal vandaa</description>
-      <pubDate>Tue, 07 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Iris Koppe</author>
-      <guid isPermaLink="false">4458761</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/a4ef83c9-3ed2-47bd-af4a-2c3fa69b6127?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/a4ef83c9-3ed2-47bd-af4a-2c3fa69b6127?width=397&amp;height=289" />
+      <author>Door: Onno Blom</author>
+      <guid isPermaLink="false">4458720</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/9f825694-9dbb-4b60-8c7f-7b6c59b4e29c?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/9f825694-9dbb-4b60-8c7f-7b6c59b4e29c?width=397&amp;height=289" />
       </media:content>
     </item>
   </channel>

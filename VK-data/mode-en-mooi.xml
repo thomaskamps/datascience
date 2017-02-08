@@ -6,8 +6,8 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>De Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Wed, 08 Feb 2017 08:40:10 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Feb 2017 08:40:10 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Feb 2017 10:22:42 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Feb 2017 10:22:42 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://static3.persgroep.net/volkskrant/static/img/logos/volkskrant/rss_logo.png?r=de9ef05e</url>
@@ -15,6 +15,17 @@
       <width>16</width>
       <height>16</height>
     </image>
+    <item>
+      <title>Ontwerpers boos over onbetaalde decorpitch voor VPRO's Zomergasten</title>
+      <link>http://www.volkskrant.nl/media/ontwerpers-boos-over-onbetaalde-decorpitch-voor-vpro-s-zomergasten~a4459603/</link>
+      <description>Onder ontwerpers is verontwaardiging ontstaan over de pitch die de VPRO heeft uitgeschreven rond een nieuw decor voor het jaarlijkse tv-programma Zomergasten. De omroep heeft ontwerpers 'en andere creatieve geesten' uitgenodigd hiervoor ideeën aan te leveren. De verontwaardiging richt zich op de minimale vergoeding die de omroep hier voor over heeft. Zo is de beroepsorganisatie BNO tegen onbetaald</description>
+      <pubDate>Wed, 08 Feb 2017 09:49:00 GMT</pubDate>
+      <author>Door: Jeroen Junte</author>
+      <guid isPermaLink="false">4459603</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/b083e39d-edcb-4a6d-94ec-b62f58057630?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/b083e39d-edcb-4a6d-94ec-b62f58057630?width=397&amp;height=289" />
+      </media:content>
+    </item>
     <item>
       <title>Wat de Italiaanse maffia in de Van Goghs zag</title>
       <link>http://www.volkskrant.nl/beeldende-kunst/wat-de-italiaanse-maffia-in-de-van-goghs-zag~a4458790/</link>
@@ -27,17 +38,6 @@
       </media:content>
     </item>
     <item>
-      <title>Ronald van der Kemp wint belangrijkste Nederlandse modeprijs: het Modestipendium</title>
-      <link>http://www.volkskrant.nl/mode-en-mooi/ronald-van-der-kemp-wint-belangrijkste-nederlandse-modeprijs-het-modestipendium~a4458734/</link>
-      <description>De belangrijkste Nederlandse modeprijs, het Modestipendium, is maandagavond uitgereikt aan modeontwerper Ronald van der Kemp.  De uitreiking vond plaats in het Amsterdamse filiaal van de Bijenkorf, waar de kleding van zijn eigen label RVDK sinds kort wordt verkocht. 'Voor mij betekent deze prijs een belangrijke steun in de rug én een blijk van erkenning binnen Nederland', aldus Van der Kemp na het</description>
-      <pubDate>Mon, 06 Feb 2017 19:00:00 GMT</pubDate>
-      <author>Door: Bregje Lampe</author>
-      <guid isPermaLink="false">4458734</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/104911d1-2c79-4215-8bb6-628ef8a99929?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/104911d1-2c79-4215-8bb6-628ef8a99929?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
       <title>Deze mode-iconen vormden Modestipendium-winnaar Ronald van der Kemp</title>
       <link>http://www.volkskrant.nl/mode-en-mooi/deze-mode-iconen-vormden-modestipendium-winnaar-ronald-van-der-kemp~a4458704/</link>
       <description>Modeontwerper Ronald van der Kemp (52) ontving maandagavond het Modestipendium, de belangrijkste Nederlandse modeprijs. Hij schetst zijn carrière aan de hand van acht sleutelfiguren. Ronald van der Kemp (52) is nu de meest spraakmakende Nederlandse modeontwerper. Justin Bieber liep eind vorig jaar in een broek van zijn hand door Amsterdam, Marc Jacobs liet openlijk weten dat hij zijn werk waardeer</description>
@@ -46,6 +46,17 @@
       <guid isPermaLink="false">4458704</guid>
       <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/fdf60954-6a2b-44b7-8794-7028106e1f6b?width=397&amp;height=289">
         <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/fdf60954-6a2b-44b7-8794-7028106e1f6b?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>Ronald van der Kemp wint belangrijkste Nederlandse modeprijs: het Modestipendium</title>
+      <link>http://www.volkskrant.nl/mode-en-mooi/ronald-van-der-kemp-wint-belangrijkste-nederlandse-modeprijs-het-modestipendium~a4458734/</link>
+      <description>De belangrijkste Nederlandse modeprijs, het Modestipendium, is maandagavond uitgereikt aan modeontwerper Ronald van der Kemp.  De uitreiking vond plaats in het Amsterdamse filiaal van de Bijenkorf, waar de kleding van zijn eigen label RVDK sinds kort wordt verkocht. 'Voor mij betekent deze prijs een belangrijke steun in de rug én een blijk van erkenning binnen Nederland', aldus Van der Kemp na het</description>
+      <pubDate>Mon, 06 Feb 2017 19:00:00 GMT</pubDate>
+      <author>Door: Bregje Lampe</author>
+      <guid isPermaLink="false">4458734</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/104911d1-2c79-4215-8bb6-628ef8a99929?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/104911d1-2c79-4215-8bb6-628ef8a99929?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -82,25 +93,14 @@
       </media:content>
     </item>
     <item>
-      <title>Praktisch én mooi: gebitkunst</title>
-      <link>http://www.volkskrant.nl/mode-en-mooi/praktisch-en-mooi-gebitkunst~a4456469/</link>
-      <description>Bij het Zweedse Bruzzoni vinden ze dat elektronica naast praktisch ook best mooi mag zijn. Bij het Zweedse Bruzzoni vinden ze dat elektronica naast praktisch ook best mooi mag zijn. Wat Nespresso met het koffieapparaat heeft gedaan, willen zij doen met de tandenborstel. Uit een huwelijk van Scandinavische eenvoud en Italiaans design werd een nieuwe elektrische tandenborstel geboren: een model met</description>
+      <title>Radiolijf in een spijkerbroek voor linedancers</title>
+      <link>http://www.volkskrant.nl/mode-en-mooi/radiolijf-in-een-spijkerbroek-voor-linedancers~a4456369/</link>
+      <description>Jossine Modderman en Arno Kantelberg geven elke week ongevraagd stijladvies aan bekende mensen. Wie had dat ooit gedacht: van Sloveense schoonheidskoningin naar vrouw van de man met de meeste macht. Ja, Melania Trump heeft veel om vrolijk over te zijn. Wij ook, althans voor wat betreft haar stijl. Melania is de domste niet. Ze begrijpt dat het is afgelopen met bronskleurige dinerborden, manshoge p</description>
       <pubDate>Sat, 04 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Productie: Joline van den Oever</author>
-      <guid isPermaLink="false">4456469</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/39759c67-63e5-4506-bed1-24183a040f19?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/39759c67-63e5-4506-bed1-24183a040f19?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
-      <title>Vrolijkmakende tentoonstelling rond alledaagse rituelen</title>
-      <link>http://www.volkskrant.nl/mode-en-mooi/vrolijkmakende-tentoonstelling-rond-alledaagse-rituelen~a4456459/</link>
-      <description>U heeft nog maar een paar weken om de tentoonstelling Rik Wouters &amp; het huiselijke utopia in het Modemuseum in Antwerpen te bezoeken. Ik begrijp het best als u niet direct enthousiast opveert bij de titel. Dat deed ik ook niet, bang dat het truttigheid troef zou zijn. Maar dit is een vrolijkmakende en tevredenstemmende tentoonstelling, waarin het nu eens niet gaat om spektakelstukken, maar om alle</description>
-      <pubDate>Sat, 04 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Bregje Lampe</author>
-      <guid isPermaLink="false">4456459</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/a07aba77-e409-4ba7-9f7d-fa16075dcff8?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/a07aba77-e409-4ba7-9f7d-fa16075dcff8?width=397&amp;height=289" />
+      <author>Jossine Modderman, Arno Kantelberg</author>
+      <guid isPermaLink="false">4456369</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/4561db0c-725f-4829-9b49-2df53cd58b05?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/4561db0c-725f-4829-9b49-2df53cd58b05?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -115,14 +115,14 @@
       </media:content>
     </item>
     <item>
-      <title>Radiolijf in een spijkerbroek voor linedancers</title>
-      <link>http://www.volkskrant.nl/mode-en-mooi/radiolijf-in-een-spijkerbroek-voor-linedancers~a4456369/</link>
-      <description>Jossine Modderman en Arno Kantelberg geven elke week ongevraagd stijladvies aan bekende mensen. Wie had dat ooit gedacht: van Sloveense schoonheidskoningin naar vrouw van de man met de meeste macht. Ja, Melania Trump heeft veel om vrolijk over te zijn. Wij ook, althans voor wat betreft haar stijl. Melania is de domste niet. Ze begrijpt dat het is afgelopen met bronskleurige dinerborden, manshoge p</description>
+      <title>Vrolijkmakende tentoonstelling rond alledaagse rituelen</title>
+      <link>http://www.volkskrant.nl/mode-en-mooi/vrolijkmakende-tentoonstelling-rond-alledaagse-rituelen~a4456459/</link>
+      <description>U heeft nog maar een paar weken om de tentoonstelling Rik Wouters &amp; het huiselijke utopia in het Modemuseum in Antwerpen te bezoeken. Ik begrijp het best als u niet direct enthousiast opveert bij de titel. Dat deed ik ook niet, bang dat het truttigheid troef zou zijn. Maar dit is een vrolijkmakende en tevredenstemmende tentoonstelling, waarin het nu eens niet gaat om spektakelstukken, maar om alle</description>
       <pubDate>Sat, 04 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Jossine Modderman, Arno Kantelberg</author>
-      <guid isPermaLink="false">4456369</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/4561db0c-725f-4829-9b49-2df53cd58b05?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/4561db0c-725f-4829-9b49-2df53cd58b05?width=397&amp;height=289" />
+      <author>Door: Bregje Lampe</author>
+      <guid isPermaLink="false">4456459</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/a07aba77-e409-4ba7-9f7d-fa16075dcff8?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/a07aba77-e409-4ba7-9f7d-fa16075dcff8?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -137,14 +137,14 @@
       </media:content>
     </item>
     <item>
-      <title>'Zitliggen' met sierlijke poten, welvende leuningen</title>
-      <link>http://www.volkskrant.nl/mode-en-mooi/-zitliggen-met-sierlijke-poten-welvende-leuningen~a4456467/</link>
-      <description>Designcriticus Jeroen Junte signaleert de nieuwste designtrends. Een alom verguisd meubel is de 'relax chair' zeker, die vulgaire stoel die met een ruk aan een hendel achterover leunt, waarbij een genant voetbankje opwipt. Een stoel die geen bank wil zijn, een chaise longue gedegradeerd tot fauteuil. Het is de wansmaak van nihilistische culthelden uit films en series als The Big Lebowski en Archie</description>
+      <title>Praktisch én mooi: gebitkunst</title>
+      <link>http://www.volkskrant.nl/mode-en-mooi/praktisch-en-mooi-gebitkunst~a4456469/</link>
+      <description>Bij het Zweedse Bruzzoni vinden ze dat elektronica naast praktisch ook best mooi mag zijn. Bij het Zweedse Bruzzoni vinden ze dat elektronica naast praktisch ook best mooi mag zijn. Wat Nespresso met het koffieapparaat heeft gedaan, willen zij doen met de tandenborstel. Uit een huwelijk van Scandinavische eenvoud en Italiaans design werd een nieuwe elektrische tandenborstel geboren: een model met</description>
       <pubDate>Sat, 04 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Jeroen Junte</author>
-      <guid isPermaLink="false">4456467</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/e7d85699-a9e7-4c19-a3c0-c5b8be8b7e34?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/e7d85699-a9e7-4c19-a3c0-c5b8be8b7e34?width=397&amp;height=289" />
+      <author>Productie: Joline van den Oever</author>
+      <guid isPermaLink="false">4456469</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/39759c67-63e5-4506-bed1-24183a040f19?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/39759c67-63e5-4506-bed1-24183a040f19?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -156,6 +156,17 @@
       <guid isPermaLink="false">4456407</guid>
       <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/18901ada-6970-45f3-a801-b34735d368a8?width=397&amp;height=289">
         <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/18901ada-6970-45f3-a801-b34735d368a8?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>'Zitliggen' met sierlijke poten, welvende leuningen</title>
+      <link>http://www.volkskrant.nl/mode-en-mooi/-zitliggen-met-sierlijke-poten-welvende-leuningen~a4456467/</link>
+      <description>Designcriticus Jeroen Junte signaleert de nieuwste designtrends. Een alom verguisd meubel is de 'relax chair' zeker, die vulgaire stoel die met een ruk aan een hendel achterover leunt, waarbij een genant voetbankje opwipt. Een stoel die geen bank wil zijn, een chaise longue gedegradeerd tot fauteuil. Het is de wansmaak van nihilistische culthelden uit films en series als The Big Lebowski en Archie</description>
+      <pubDate>Sat, 04 Feb 2017 01:00:00 GMT</pubDate>
+      <author>Door: Jeroen Junte</author>
+      <guid isPermaLink="false">4456467</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/e7d85699-a9e7-4c19-a3c0-c5b8be8b7e34?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/e7d85699-a9e7-4c19-a3c0-c5b8be8b7e34?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -247,17 +258,6 @@
       </media:content>
     </item>
     <item>
-      <title>'Je leeft maar één keer; je moet spullen durven gebruiken'</title>
-      <link>http://www.volkskrant.nl/mode-en-mooi/-je-leeft-maar-een-keer-je-moet-spullen-durven-gebruiken~a4453209/</link>
-      <description>In het atelierhuis van Jorine en Egbert-Jan laten nieuwe, zelf ontworpen spullen zich moeiteloos combineren met vintagemeubels. Wie?Jorine Oosterhoff (35), Egbert-Jan Lam (45), dochter Fiep (4) en zoon Olle (4 maanden). Wat doen ze?Oosterhoff en Lam zijn productontwerpers Waar?Een atelierwoning in de Arnhemse wijk Presikhaaf. Jorine: 'Ja, in dit gebouw wonen en werken alleen maar kunstenaars. Egbe</description>
-      <pubDate>Sat, 28 Jan 2017 01:00:00 GMT</pubDate>
-      <author>Door: Lisanne Didi Onderwater</author>
-      <guid isPermaLink="false">4453209</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/445bf242-7c0b-44c4-ae9b-4725558769a5?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/445bf242-7c0b-44c4-ae9b-4725558769a5?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
       <title>Mijn advies: neem een stylist in dienst</title>
       <link>http://www.volkskrant.nl/mode-en-mooi/mijn-advies-neem-een-stylist-in-dienst~a4453250/</link>
       <description>Jossine Modderman en Arno Kantelberg geven elke week ongevraagd stijladvies aan bekende mensen. Hier past maar één prangende vraag: wat ging er door je heen, Marit? Gevolgd door een tweede: was er dan niemand, geen nicht, geen goede vriend(in), die zei: weg ermee, toen je deze jurk koos voor een rode-loperfeestje? Lieve Marit van Bohemen, ik heb vernomen dat je een erg leuke vrouw bent met wie je</description>
@@ -269,14 +269,14 @@
       </media:content>
     </item>
     <item>
-      <title>Is bont mijden hypocriet voor een vleeseter?</title>
-      <link>http://www.volkskrant.nl/mode-en-mooi/is-bont-mijden-hypocriet-voor-een-vleeseter~a4453194/</link>
-      <description>Liselot: 'Ik vind bont mooi, maar ik heb het gevoel dat ik mij moet verdedigen als ik het draag. De bontkraag aan de capuchon van mijn winterjas heb ik erafgehaald, en een tweedehands bonten stola draag ik nooit. Ik ben een gematigd vleeseter, ik heb leren spullen en van mijn make-up weet ik niet altijd of het dierproefvrij is. Geen bont dragen voelt daarom wat hypocriet. Hoe staat u daartegenover</description>
+      <title>'Je leeft maar één keer; je moet spullen durven gebruiken'</title>
+      <link>http://www.volkskrant.nl/mode-en-mooi/-je-leeft-maar-een-keer-je-moet-spullen-durven-gebruiken~a4453209/</link>
+      <description>In het atelierhuis van Jorine en Egbert-Jan laten nieuwe, zelf ontworpen spullen zich moeiteloos combineren met vintagemeubels. Wie?Jorine Oosterhoff (35), Egbert-Jan Lam (45), dochter Fiep (4) en zoon Olle (4 maanden). Wat doen ze?Oosterhoff en Lam zijn productontwerpers Waar?Een atelierwoning in de Arnhemse wijk Presikhaaf. Jorine: 'Ja, in dit gebouw wonen en werken alleen maar kunstenaars. Egbe</description>
       <pubDate>Sat, 28 Jan 2017 01:00:00 GMT</pubDate>
-      <author>Door: Bregje Lampe</author>
-      <guid isPermaLink="false">4453194</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/1f1fbeea-f083-4185-824b-2440e290523f?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/1f1fbeea-f083-4185-824b-2440e290523f?width=397&amp;height=289" />
+      <author>Door: Lisanne Didi Onderwater</author>
+      <guid isPermaLink="false">4453209</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/445bf242-7c0b-44c4-ae9b-4725558769a5?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/445bf242-7c0b-44c4-ae9b-4725558769a5?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -288,6 +288,17 @@
       <guid isPermaLink="false">4453247</guid>
       <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/81402f50-02d5-4329-bc18-646133e1c121?width=397&amp;height=289">
         <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/81402f50-02d5-4329-bc18-646133e1c121?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>Is bont mijden hypocriet voor een vleeseter?</title>
+      <link>http://www.volkskrant.nl/mode-en-mooi/is-bont-mijden-hypocriet-voor-een-vleeseter~a4453194/</link>
+      <description>Liselot: 'Ik vind bont mooi, maar ik heb het gevoel dat ik mij moet verdedigen als ik het draag. De bontkraag aan de capuchon van mijn winterjas heb ik erafgehaald, en een tweedehands bonten stola draag ik nooit. Ik ben een gematigd vleeseter, ik heb leren spullen en van mijn make-up weet ik niet altijd of het dierproefvrij is. Geen bont dragen voelt daarom wat hypocriet. Hoe staat u daartegenover</description>
+      <pubDate>Sat, 28 Jan 2017 01:00:00 GMT</pubDate>
+      <author>Door: Bregje Lampe</author>
+      <guid isPermaLink="false">4453194</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/1f1fbeea-f083-4185-824b-2440e290523f?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/1f1fbeea-f083-4185-824b-2440e290523f?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -335,17 +346,6 @@
       </media:content>
     </item>
     <item>
-      <title>Amsterdam fashion week zoals het ooit was: springplank voor jong talent</title>
-      <link>http://www.volkskrant.nl/mode-en-mooi/amsterdam-fashion-week-zoals-het-ooit-was-springplank-voor-jong-talent~a4450058/</link>
-      <description>Aanstaande donderdag begint de Amsterdamse modeweek. Een week die trouwens maar vijf dagen duurt en waarop vanaf het begin in 2004 stevig wordt gemopperd door modeprofessionals. Het mikpunt van kritiek en spot zijn de vele commerciële namen op het catwalkprogramma, de typisch Hollandse polderglamour en het feit dat de organisatie mode als entertainment ziet. Maar het programma, dat anderhalf jaar</description>
-      <pubDate>Sat, 21 Jan 2017 01:00:00 GMT</pubDate>
-      <author>Door: Bregje Lampe</author>
-      <guid isPermaLink="false">4450058</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/9f51ecc0-413c-4c91-af3b-fef98ad189fc?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/9f51ecc0-413c-4c91-af3b-fef98ad189fc?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
       <title>'Ik houd van spullen met een verleden'</title>
       <link>http://www.volkskrant.nl/mode-en-mooi/-ik-houd-van-spullen-met-een-verleden~a4450025/</link>
       <description>Met hergebruikte materialen bliezen Jannetje en haar man Alf nieuw leven in een huis in Zandvoort waar de tijd dertig jaar had stilgestaan. Jannetje Loef (42), Alf de Jong (45) en kinderen Katrien (13) en David (11).Wat doen ze?Zij is industrieel vormgever en antiekrestaurator, hij is designdirector.Waar?Een vrijstaand huis uit 1900 in Zandvoort. Loef: 'De ruwe houtbetimmering eronder vond ik ook</description>
@@ -357,14 +357,14 @@
       </media:content>
     </item>
     <item>
-      <title>Wit overhemd met de suggestie van blue collar</title>
-      <link>http://www.volkskrant.nl/mode-en-mooi/wit-overhemd-met-de-suggestie-van-blue-collar~a4450036/</link>
-      <description>Jossine Modderman en Arno Kantelberg geven elke week ongevraagd stijladvies aan bekende mensen. Die Inge de Bruijn. De zwem-pensionado heeft een volle agenda met al die premières, feestjes en partijtjes die zij opluistert met haar immer opmerkelijke verschijning. Ditmaal zien we haar bij een borrel voor luxe schoeisel in een koddig kostschoolpakje waar, naar ik mij heb laten vertellen, sommige man</description>
+      <title>Amsterdam fashion week zoals het ooit was: springplank voor jong talent</title>
+      <link>http://www.volkskrant.nl/mode-en-mooi/amsterdam-fashion-week-zoals-het-ooit-was-springplank-voor-jong-talent~a4450058/</link>
+      <description>Aanstaande donderdag begint de Amsterdamse modeweek. Een week die trouwens maar vijf dagen duurt en waarop vanaf het begin in 2004 stevig wordt gemopperd door modeprofessionals. Het mikpunt van kritiek en spot zijn de vele commerciële namen op het catwalkprogramma, de typisch Hollandse polderglamour en het feit dat de organisatie mode als entertainment ziet. Maar het programma, dat anderhalf jaar</description>
       <pubDate>Sat, 21 Jan 2017 01:00:00 GMT</pubDate>
-      <author>Door: Arno Kantelberg en Jossine Modderman</author>
-      <guid isPermaLink="false">4450036</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/7d59a5ac-30b7-4da4-aeb4-4e4791a9ef05?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/7d59a5ac-30b7-4da4-aeb4-4e4791a9ef05?width=397&amp;height=289" />
+      <author>Door: Bregje Lampe</author>
+      <guid isPermaLink="false">4450058</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/9f51ecc0-413c-4c91-af3b-fef98ad189fc?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/9f51ecc0-413c-4c91-af3b-fef98ad189fc?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -379,17 +379,6 @@
       </media:content>
     </item>
     <item>
-      <title>'Ik draag unieke stukken regelrecht van de catwalk'</title>
-      <link>http://www.volkskrant.nl/magazine/-ik-draag-unieke-stukken-regelrecht-van-de-catwalk~a4449946/</link>
-      <description>Smaakmaker Iris Ruisch (41) is creatief directeur van Fashionweek Amsterdam. 'Ik probeer het te niet te vaak te doen, maar in de praktijk draag ik toch bijna altijd zwart en wit. Zomers neig ik naar bohemien en 's winters draag ik graag Vlaamse designers, zoals Ann Demeulemeester. Vooral met schoenen ben ik uitgesproken, ik heb veel unieke stukken die regelrecht van de catwalk komen.' 'Klopt. Ik b</description>
-      <pubDate>Sat, 21 Jan 2017 01:00:00 GMT</pubDate>
-      <author>Door: Anne van Blijderveen</author>
-      <guid isPermaLink="false">4449946</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/78ff979b-3c0b-4543-a46a-706c2b1a4adf?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/78ff979b-3c0b-4543-a46a-706c2b1a4adf?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
       <title>'Waarom zou ik me iets aantrekken van wat anderen van mij vinden?'</title>
       <link>http://www.volkskrant.nl/magazine/-waarom-zou-ik-me-iets-aantrekken-van-wat-anderen-van-mij-vinden~a4451039/</link>
       <description>Zijn kronkelende boekenplank kent u vast, of anders een van zijn iconische stoelen. Ontwerper Ron Arad vertelt over kleine musea en dito auto's en zijn jacht op de leunstoel van Jean Prouvé. Ron Arad (1951) is boos. Met woeste gebaren wrijft hij over zijn iPad maar op het scherm verandert er niets. 'Een onding', bromt de Brits-Israëlische ontwerper. Hij kan het weten. Al in 2004 - zes jaar voor de</description>
@@ -401,14 +390,25 @@
       </media:content>
     </item>
     <item>
-      <title>XL-Mouwen</title>
-      <link>http://www.volkskrant.nl/mode-en-mooi/xl-mouwen~a4450044/</link>
-      <description>Een oude sartoriale wet vertelt ons dat mouwen nooit de duimkootjes mogen passeren. Maar kijk aan, de huidige mode overtreedt deze regel. En niet zuinig ook. Je handen uit de mouwen steken is er voorlopig niet bij.</description>
+      <title>'Ik draag unieke stukken regelrecht van de catwalk'</title>
+      <link>http://www.volkskrant.nl/magazine/-ik-draag-unieke-stukken-regelrecht-van-de-catwalk~a4449946/</link>
+      <description>Smaakmaker Iris Ruisch (41) is creatief directeur van Fashionweek Amsterdam. 'Ik probeer het te niet te vaak te doen, maar in de praktijk draag ik toch bijna altijd zwart en wit. Zomers neig ik naar bohemien en 's winters draag ik graag Vlaamse designers, zoals Ann Demeulemeester. Vooral met schoenen ben ik uitgesproken, ik heb veel unieke stukken die regelrecht van de catwalk komen.' 'Klopt. Ik b</description>
       <pubDate>Sat, 21 Jan 2017 01:00:00 GMT</pubDate>
-      <author>Productie: Vanessa Oostijen / Studio Koosje</author>
-      <guid isPermaLink="false">4450044</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/026e23e1-0590-46db-96ea-6f23e0f5952f?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/026e23e1-0590-46db-96ea-6f23e0f5952f?width=397&amp;height=289" />
+      <author>Door: Anne van Blijderveen</author>
+      <guid isPermaLink="false">4449946</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/78ff979b-3c0b-4543-a46a-706c2b1a4adf?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/78ff979b-3c0b-4543-a46a-706c2b1a4adf?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>Wit overhemd met de suggestie van blue collar</title>
+      <link>http://www.volkskrant.nl/mode-en-mooi/wit-overhemd-met-de-suggestie-van-blue-collar~a4450036/</link>
+      <description>Jossine Modderman en Arno Kantelberg geven elke week ongevraagd stijladvies aan bekende mensen. Die Inge de Bruijn. De zwem-pensionado heeft een volle agenda met al die premières, feestjes en partijtjes die zij opluistert met haar immer opmerkelijke verschijning. Ditmaal zien we haar bij een borrel voor luxe schoeisel in een koddig kostschoolpakje waar, naar ik mij heb laten vertellen, sommige man</description>
+      <pubDate>Sat, 21 Jan 2017 01:00:00 GMT</pubDate>
+      <author>Door: Arno Kantelberg en Jossine Modderman</author>
+      <guid isPermaLink="false">4450036</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/7d59a5ac-30b7-4da4-aeb4-4e4791a9ef05?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/7d59a5ac-30b7-4da4-aeb4-4e4791a9ef05?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -434,6 +434,17 @@
       </media:content>
     </item>
     <item>
+      <title>XL-Mouwen</title>
+      <link>http://www.volkskrant.nl/mode-en-mooi/xl-mouwen~a4450044/</link>
+      <description>Een oude sartoriale wet vertelt ons dat mouwen nooit de duimkootjes mogen passeren. Maar kijk aan, de huidige mode overtreedt deze regel. En niet zuinig ook. Je handen uit de mouwen steken is er voorlopig niet bij.</description>
+      <pubDate>Sat, 21 Jan 2017 01:00:00 GMT</pubDate>
+      <author>Productie: Vanessa Oostijen / Studio Koosje</author>
+      <guid isPermaLink="false">4450044</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/026e23e1-0590-46db-96ea-6f23e0f5952f?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/026e23e1-0590-46db-96ea-6f23e0f5952f?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
       <title>Dít was de jurk van Melania</title>
       <link>http://www.volkskrant.nl/buitenland/dit-was-de-jurk-van-melania~a4451303/</link>
       <description>Ze had dus een lichtblauwe jurk van Ralph Lauren aan met een jaren vijftig snit en een col. Daarmee zag Melania Trump er keurig uit, een beetje als een stewardess. Heel anders dan we van haar gewend zijn, ze heeft met haar perfecte maten en strak getrokken gezicht toch de look van een licht ordinaire stoeipoes. Maar voor deze officiële gelegenheid had ze een stijlvoorbeeld op niveau gekozen: Jacki</description>
@@ -442,17 +453,6 @@
       <guid isPermaLink="false">4451303</guid>
       <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/c96bb4b2-3dcf-403d-b245-845142318082?width=397&amp;height=289">
         <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/c96bb4b2-3dcf-403d-b245-845142318082?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
-      <title>De bedriegelijke eenvoud van stijl en elegantie</title>
-      <link>http://www.volkskrant.nl/mode-en-mooi/de-bedriegelijke-eenvoud-van-stijl-en-elegantie~a4450666/</link>
-      <description>Het is meer dan een eerbetoon aan actrice Audrey Hepburn, die tentoonstelling in het Haags Gemeentemuseum. Honderd outfits van ontwerper Hubert de Givenchy zijn er te zien en die zijn verrassend van deze tijd. Toen Audrey Hepburn in 1953 de kans kreeg om in Parijs kleding uit te zoeken voor haar rol in de film Roman Holiday, ging ze regelrecht naar het atelier van Hubert de Givenchy. Ze kende zijn</description>
-      <pubDate>Fri, 20 Jan 2017 01:00:00 GMT</pubDate>
-      <author>Door: Bregje Lampe</author>
-      <guid isPermaLink="false">4450666</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/840a045e-42e1-4f2d-ad34-7a9dc2e76e4f?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/840a045e-42e1-4f2d-ad34-7a9dc2e76e4f?width=397&amp;height=289" />
       </media:content>
     </item>
   </channel>

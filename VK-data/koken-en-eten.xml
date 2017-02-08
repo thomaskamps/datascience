@@ -6,8 +6,8 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>De Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Wed, 08 Feb 2017 08:47:30 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Feb 2017 08:47:30 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Feb 2017 10:29:11 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Feb 2017 10:29:11 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://static3.persgroep.net/volkskrant/static/img/logos/volkskrant/rss_logo.png?r=de9ef05e</url>
@@ -104,17 +104,6 @@
       </media:content>
     </item>
     <item>
-      <title>Een knetterend zuivere Chenin Blanc</title>
-      <link>http://www.volkskrant.nl/koken-en-eten/een-knetterend-zuivere-chenin-blanc~a4456385/</link>
-      <description>Onno Kleyn drinkt een 'skone' Zuid-Afrikaanse Chenin Blanc. Als ik aan Namibië denk, denk ik aan woestijn. Aan verschroeide heuvels en lage nederzettinkjes, verbonden door kale repen asfalt. Niet dat deze voorstelling op enige ervaring berust, hoor. Hoe dan ook, tot mijn verbazing ligt in het grensgebied met Zuid-Afrika een wijngebied, nou ja, net aan de Zuid-Afrikaanse kant dan, in de streek die</description>
-      <pubDate>Sat, 04 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Onno Kleyn</author>
-      <guid isPermaLink="false">4456385</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/949b7578-fc19-4135-b5c3-aefc1b38d751?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/949b7578-fc19-4135-b5c3-aefc1b38d751?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
       <title>Langzaam geroosterde bleekselderij</title>
       <link>http://www.volkskrant.nl/koken-en-eten/langzaam-geroosterde-bleekselderij~a4456455/</link>
       <description>Kookboekenmaker, kok en illustrator Yvette van Boven maakt elke week een gerecht in de oven. Deze week: langzaam geroosterde bleekselderij. Hoofdgerecht voor 4 personen Na een paar copieuze dagen in Parijs en Antwerpen werd het toch echt tijd voor bezinning hier in de keuken van Van Boven. Het moest nu écht afgelopen zijn met dat gevreet. Voortaan is eenvoud troef. Nu is dat makkelijker gezegd dan</description>
@@ -126,14 +115,14 @@
       </media:content>
     </item>
     <item>
-      <title>Fascinerend briefje met prikkelende tekening</title>
-      <link>http://www.volkskrant.nl/magazine/fascinerend-briefje-met-prikkelende-tekening~a4456436/</link>
-      <description>Hmmm. Fascinerend briefje met zorgvuldig geschreven woorden. Spekkoek (lekker!), Paturain (da's pas fijn) 'kruideboter', lekkere taartjes (geen vieze) en bierkratten (meervoud inderdaad). Hoi. En een prikkelende tekening. Welke zielenknijpers laten we hier op los? Hermann Rorschach, met zijn inktvlektest? Die test draait om de vraag wat je in de vlek ziet. Het is een projectietest vanuit het princ</description>
+      <title>Een knetterend zuivere Chenin Blanc</title>
+      <link>http://www.volkskrant.nl/koken-en-eten/een-knetterend-zuivere-chenin-blanc~a4456385/</link>
+      <description>Onno Kleyn drinkt een 'skone' Zuid-Afrikaanse Chenin Blanc. Als ik aan Namibië denk, denk ik aan woestijn. Aan verschroeide heuvels en lage nederzettinkjes, verbonden door kale repen asfalt. Niet dat deze voorstelling op enige ervaring berust, hoor. Hoe dan ook, tot mijn verbazing ligt in het grensgebied met Zuid-Afrika een wijngebied, nou ja, net aan de Zuid-Afrikaanse kant dan, in de streek die</description>
       <pubDate>Sat, 04 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Tefke van Dijk</author>
-      <guid isPermaLink="false">4456436</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/02ebf3ac-6581-4c09-bc34-e2b3a91281b4?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/02ebf3ac-6581-4c09-bc34-e2b3a91281b4?width=397&amp;height=289" />
+      <author>Door: Onno Kleyn</author>
+      <guid isPermaLink="false">4456385</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/949b7578-fc19-4135-b5c3-aefc1b38d751?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/949b7578-fc19-4135-b5c3-aefc1b38d751?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -145,6 +134,17 @@
       <guid isPermaLink="false">4456390</guid>
       <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/032d81dc-54a0-4e88-a1d7-d39a65f082b6?width=397&amp;height=289">
         <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/032d81dc-54a0-4e88-a1d7-d39a65f082b6?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>Fascinerend briefje met prikkelende tekening</title>
+      <link>http://www.volkskrant.nl/magazine/fascinerend-briefje-met-prikkelende-tekening~a4456436/</link>
+      <description>Hmmm. Fascinerend briefje met zorgvuldig geschreven woorden. Spekkoek (lekker!), Paturain (da's pas fijn) 'kruideboter', lekkere taartjes (geen vieze) en bierkratten (meervoud inderdaad). Hoi. En een prikkelende tekening. Welke zielenknijpers laten we hier op los? Hermann Rorschach, met zijn inktvlektest? Die test draait om de vraag wat je in de vlek ziet. Het is een projectietest vanuit het princ</description>
+      <pubDate>Sat, 04 Feb 2017 01:00:00 GMT</pubDate>
+      <author>Door: Tefke van Dijk</author>
+      <guid isPermaLink="false">4456436</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/02ebf3ac-6581-4c09-bc34-e2b3a91281b4?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/02ebf3ac-6581-4c09-bc34-e2b3a91281b4?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -258,17 +258,6 @@
       </media:content>
     </item>
     <item>
-      <title>Een boodschappenbriefje in een vreemde taal, een echte uitdaging</title>
-      <link>http://www.volkskrant.nl/magazine/een-boodschappenbriefje-in-een-vreemde-taal-een-echte-uitdaging~a4453203/</link>
-      <description>'Mei freonlike groetnis', schreef de inzender van dit boodschappenbriefje. Het is geschreven in een hem onbekende taal. Ha, een uitdaging! Nu willen we weten (a) welke taal dit is en (b) wat er staat. Gelukkig is er Twitter. Al snel blijkt het geen Cyrillisch, Georgisch of Armeens. Vele mensen denken aan Amhaars (Ethiopië), steno, Koreaans (fonetisch), Chinees of Tigrinya (Eritrea). Het blijkt het</description>
-      <pubDate>Sat, 28 Jan 2017 01:00:00 GMT</pubDate>
-      <author>Door: Tefke van Dijk</author>
-      <guid isPermaLink="false">4453203</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/66713c10-2218-4053-ad9e-4baf88deba4a?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/66713c10-2218-4053-ad9e-4baf88deba4a?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
       <title>Staatssecretaris van Dam heeft een les voedseleconomie nodig</title>
       <link>http://www.volkskrant.nl/politiek/staatssecretaris-van-dam-heeft-een-les-voedseleconomie-nodig~a4454513/</link>
       <description>Zei hij het echt? Ja, hij zei het echt. In de Volkskrant van donderdag nam staatssecretaris van Landbouw Martijn van Dam in een interview een voorschot op de Voedseltop die later die dag zou plaatsvinden in Den Haag. Citaat 1: 'Heffing op vlees? Ik zie het nut niet.' Citaat 2: 'Ik zeg ook niet dat er minder vlees gegeten moet worden. Sterker, ik ben bang dat mensen dan het tegenovergestelde doen.'</description>
@@ -291,6 +280,17 @@
       </media:content>
     </item>
     <item>
+      <title>Een boodschappenbriefje in een vreemde taal, een echte uitdaging</title>
+      <link>http://www.volkskrant.nl/magazine/een-boodschappenbriefje-in-een-vreemde-taal-een-echte-uitdaging~a4453203/</link>
+      <description>'Mei freonlike groetnis', schreef de inzender van dit boodschappenbriefje. Het is geschreven in een hem onbekende taal. Ha, een uitdaging! Nu willen we weten (a) welke taal dit is en (b) wat er staat. Gelukkig is er Twitter. Al snel blijkt het geen Cyrillisch, Georgisch of Armeens. Vele mensen denken aan Amhaars (Ethiopië), steno, Koreaans (fonetisch), Chinees of Tigrinya (Eritrea). Het blijkt het</description>
+      <pubDate>Sat, 28 Jan 2017 01:00:00 GMT</pubDate>
+      <author>Door: Tefke van Dijk</author>
+      <guid isPermaLink="false">4453203</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/66713c10-2218-4053-ad9e-4baf88deba4a?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/66713c10-2218-4053-ad9e-4baf88deba4a?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
       <title>Gratin van zoete aardappel en spinazie</title>
       <link>http://www.volkskrant.nl/koken-en-eten/gratin-van-zoete-aardappel-en-spinazie~a4453210/</link>
       <description>Kookboekenmaker, kok en illustrator Yvette van Boven maakt elke week een gerecht in de oven. Deze week: gratin van zoete aardappel &amp; spinazie voor 4 personen. Vorige week trakteerde ik u op een balletje gehakt en vandaag op een gerecht dat u erbij kunt serveren, maar dat ook prima op zichzelf kan staan, met een goede salade erbij. Maak porties in soepkommen en het ziet er meteen heel dinerachtig u</description>
@@ -302,17 +302,6 @@
       </media:content>
     </item>
     <item>
-      <title>Last van jicht? Eet en beweeg je beter</title>
-      <link>http://www.volkskrant.nl/wetenschap/last-van-jicht-eet-en-beweeg-je-beter~a4453754/</link>
-      <description>Over de invloed van voeding op onze gezondheid. Deze week: Hoe je je 'beter kunt eten' bij jicht. Het werd ooit 'de ziekte der koningen' genoemd, omdat vooral rijke, weldoorvoede mannen er last van hadden, maar inmiddels is de aandoening een volksziekte geworden: jicht treft jaarlijks enkele honderdduizenden volwassenen. Opvallend vaak in hun grote teen, waar het gewricht dan opeens pijnlijk ontst</description>
-      <pubDate>Sat, 28 Jan 2017 01:00:00 GMT</pubDate>
-      <author>Door: Ellen de Visser</author>
-      <guid isPermaLink="false">4453754</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/8ca75a09-01cc-4d23-9a24-520a31654fb0?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/8ca75a09-01cc-4d23-9a24-520a31654fb0?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
       <title>Bronstig, vol en smaakvol van een koele kust</title>
       <link>http://www.volkskrant.nl/koken-en-eten/bronstig-vol-en-smaakvol-van-een-koele-kust~a4453294/</link>
       <description>Onno Kleyn drinkt, met enige vertraging, een Chileense Pinot Noir. De logistiek achter deze rubriek, de correspondentie, besluitvorming, dozenuitpakkerij, administratie, de abonnementen op glas- en spuugbakken, dat liegt er niet om hoor. Het proeven maakt natuurlijk alles goed, maar gedoe blijft het. En soms komt er een zandkorreltje in het raderwerk. Zo had ik voor het grotere artikel over Pinots</description>
@@ -321,6 +310,17 @@
       <guid isPermaLink="false">4453294</guid>
       <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/4342a771-28b9-4623-b1f3-061fbc68b4f3?width=397&amp;height=289">
         <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/4342a771-28b9-4623-b1f3-061fbc68b4f3?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>Last van jicht? Eet en beweeg je beter</title>
+      <link>http://www.volkskrant.nl/wetenschap/last-van-jicht-eet-en-beweeg-je-beter~a4453754/</link>
+      <description>Over de invloed van voeding op onze gezondheid. Deze week: Hoe je je 'beter kunt eten' bij jicht. Het werd ooit 'de ziekte der koningen' genoemd, omdat vooral rijke, weldoorvoede mannen er last van hadden, maar inmiddels is de aandoening een volksziekte geworden: jicht treft jaarlijks enkele honderdduizenden volwassenen. Opvallend vaak in hun grote teen, waar het gewricht dan opeens pijnlijk ontst</description>
+      <pubDate>Sat, 28 Jan 2017 01:00:00 GMT</pubDate>
+      <author>Door: Ellen de Visser</author>
+      <guid isPermaLink="false">4453754</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/8ca75a09-01cc-4d23-9a24-520a31654fb0?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/8ca75a09-01cc-4d23-9a24-520a31654fb0?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>

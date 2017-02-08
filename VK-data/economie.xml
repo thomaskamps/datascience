@@ -6,8 +6,8 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>De Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Wed, 08 Feb 2017 08:49:39 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Feb 2017 08:49:39 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Feb 2017 10:30:02 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Feb 2017 10:30:02 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://static3.persgroep.net/volkskrant/static/img/logos/volkskrant/rss_logo.png?r=de9ef05e</url>
@@ -16,14 +16,25 @@
       <height>16</height>
     </image>
     <item>
-      <title>Consument kan richting geven aan transitie naar duurzaamheid</title>
-      <link>http://www.volkskrant.nl/opinie/consument-kan-richting-geven-aan-transitie-naar-duurzaamheid~a4459225/</link>
-      <description>De ingezonden brieven van woensdag 8 februari. De oproep van de 8 natuur- en milieuorganisaties om te komen tot een transitie naar een 'natuurinclusieve' landbouw, verdient alle steun en navolging. Een wat onderbelicht aspect in het stuk is de teloorgang van de bodemvruchtbaarheid, mede door het jarenlange gebruik van pesticiden en kunstmest. Zie het interview met de akkerbouwer Peter Harry Mulder</description>
+      <title>Wat nou tulpen en kaas: deze machines leveren Holland veel meer op</title>
+      <link>http://www.volkskrant.nl/binnenland/wat-nou-tulpen-en-kaas-deze-machines-leveren-holland-veel-meer-op~a4459338/</link>
+      <description>Nederland is geen tulpenland maar een machineland. Machines vormen de grootste inkomenspost op onze exportrekening. De Nederlandse export moet het hebben van machines. Niet tulpen, niet kaas, niet aardgas of cannabis zijn de grote winstmakers van de Nederlandse exportindustrie. De uitvoer van machines met het label 'Made in Holland' leverde de Nederlandse economie in 2015 veel meer op dan die beke</description>
+      <pubDate>Wed, 08 Feb 2017 05:00:00 GMT</pubDate>
+      <author>Door: Marc van den Eerenbeemt</author>
+      <guid isPermaLink="false">4459338</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/d0a8d052-d18a-4a9c-9aca-8f444495e654?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/d0a8d052-d18a-4a9c-9aca-8f444495e654?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>Bedrijfscollecties hebben vaak uitstekende neus voor jong talent</title>
+      <link>http://www.volkskrant.nl/beeldende-kunst/bedrijfscollecties-hebben-vaak-uitstekende-neus-voor-jong-talent~a4459242/</link>
+      <description>Het was een tijdlang minder door de crisis, maar de kunstcollecties van bedrijven doen het weer hartstikke goed, blijkt op de Zuidas en de kunstbeurs in Rotterdam. Op kunstbeurs Art Rotterdam meldt zich vandaag een speciale categorie potentiële kopers: de mensen achter de kunstcollecties van ziekenhuizen, banken, verzekeraars en advocatenkantoren. Zij speuren naar schilderijen, foto's en objecten</description>
       <pubDate>Wed, 08 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Redactie</author>
-      <guid isPermaLink="false">4459225</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/832eac3f-64e2-46c3-8e38-837da22131e5?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/832eac3f-64e2-46c3-8e38-837da22131e5?width=397&amp;height=289" />
+      <author>Door: Bart Dirks</author>
+      <guid isPermaLink="false">4459242</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/8bf43c6f-a31e-49b0-a7f3-cb15e05f750d?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/8bf43c6f-a31e-49b0-a7f3-cb15e05f750d?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -38,6 +49,17 @@
       </media:content>
     </item>
     <item>
+      <title>Consument kan richting geven aan transitie naar duurzaamheid</title>
+      <link>http://www.volkskrant.nl/opinie/consument-kan-richting-geven-aan-transitie-naar-duurzaamheid~a4459225/</link>
+      <description>De ingezonden brieven van woensdag 8 februari. De oproep van de 8 natuur- en milieuorganisaties om te komen tot een transitie naar een 'natuurinclusieve' landbouw, verdient alle steun en navolging. Een wat onderbelicht aspect in het stuk is de teloorgang van de bodemvruchtbaarheid, mede door het jarenlange gebruik van pesticiden en kunstmest. Zie het interview met de akkerbouwer Peter Harry Mulder</description>
+      <pubDate>Wed, 08 Feb 2017 01:00:00 GMT</pubDate>
+      <author>Door: Redactie</author>
+      <guid isPermaLink="false">4459225</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/832eac3f-64e2-46c3-8e38-837da22131e5?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/832eac3f-64e2-46c3-8e38-837da22131e5?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
       <title>Doorsneevermogen stijgt dankzij huizenprijzen voor het eerst sinds crisis</title>
       <link>http://www.volkskrant.nl/economie/doorsneevermogen-stijgt-dankzij-huizenprijzen-voor-het-eerst-sinds-crisis~a4459298/</link>
       <description>Met dank aan de stijgende huizenprijzen staan Nederlanders er voor het eerst sinds het uitbreken van de crisis weer wat beter voor. Na jarenlang interen steeg het doorsneevermogen van een Nederlands huishouden in 2015 weer eens: met 9 procent, tot 17.300 euro. Dat meldt het Centraal Bureau voor de Statistiek (CBS) vandaag. Het vermogen van particulieren bestaat gemiddeld voor 56 procent uit de waa</description>
@@ -46,28 +68,6 @@
       <guid isPermaLink="false">4459298</guid>
       <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/b412ff96-8da6-45d2-a7af-386fbd1c4b57?width=397&amp;height=289">
         <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/b412ff96-8da6-45d2-a7af-386fbd1c4b57?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
-      <title>Bedrijven investeren weer in hun kunstcollecties blijkt op beurs Art Rotterdam</title>
-      <link>http://www.volkskrant.nl/beeldende-kunst/bedrijven-investeren-weer-in-hun-kunstcollecties-blijkt-op-beurs-art-rotterdam~a4459242/</link>
-      <description>Het was een tijdlang minder door de crisis, maar de kunstcollecties van bedrijven doen het weer hartstikke goed, blijkt op de Zuidas en de kunstbeurs in Rotterdam. Op kunstbeurs Art Rotterdam meldt zich vandaag een speciale categorie potentiële kopers: de mensen achter de kunstcollecties van ziekenhuizen, banken, verzekeraars en advocatenkantoren. Zij speuren naar schilderijen, foto's en objecten</description>
-      <pubDate>Wed, 08 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Bart Dirks</author>
-      <guid isPermaLink="false">4459242</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/8bf43c6f-a31e-49b0-a7f3-cb15e05f750d?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/8bf43c6f-a31e-49b0-a7f3-cb15e05f750d?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
-      <title>Wat nou tulpen een kaas: deze 'Made in Holland'-machines leveren ons veel meer op</title>
-      <link>http://www.volkskrant.nl/binnenland/wat-nou-tulpen-een-kaas-deze-made-in-holland-machines-leveren-ons-veel-meer-op~a4459338/</link>
-      <description>Nederland is geen tulpenland maar een machineland. Machines vormen de grootste inkomenspost op onze exportrekening. De Nederlandse export moet het hebben van machines. Niet tulpen, niet kaas, niet aardgas of cannabis zijn de grote winstmakers van de Nederlandse exportindustrie. De uitvoer van machines met het label 'Made in Holland' leverde de Nederlandse economie in 2015 veel meer op dan die beke</description>
-      <pubDate>Wed, 08 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Marc van den Eerenbeemt</author>
-      <guid isPermaLink="false">4459338</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/d0a8d052-d18a-4a9c-9aca-8f444495e654?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/d0a8d052-d18a-4a9c-9aca-8f444495e654?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -82,17 +82,6 @@
       </media:content>
     </item>
     <item>
-      <title>Hoe gemeend is Silicon Valley's opstand tegen Trump?</title>
-      <link>http://www.volkskrant.nl/buitenland/hoe-gemeend-is-silicon-valley-s-opstand-tegen-trump~a4459301/</link>
-      <description>Grote merken kunnen zich niet veroorloven neutraal te staan tegenover Trumps beleid. Dat kost waarschijnlijk meer klanten dan stelling nemen. Zo wordt Silicon Valley met al zijn immigranten het centrum van het kosmopolitische verzet. Het gaat uiteindelijk natuurlijk gewoon om geld. De bedrijven die zich de afgelopen week tegen president Trump hebben gekeerd denken dat zij vroeg of laat beter af zi</description>
-      <pubDate>Wed, 08 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Michael Persson</author>
-      <guid isPermaLink="false">4459301</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/8335ce2b-0221-4f59-9c30-ad94f9e0ca6d?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/8335ce2b-0221-4f59-9c30-ad94f9e0ca6d?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
       <title>Waarom werkt de Philips-curve niet meer?</title>
       <link>http://www.volkskrant.nl/opinie/waarom-werkt-de-philips-curve-niet-meer~a4459234/</link>
       <description>De Nieuw-Zeelandse econoom William ('Bill') Phillips, van wie vorige maand een biografie verscheen, is bekend van de Moniac (Monetary National Income Analogue Computer) waarvan er een op de Erasmus Universiteit in Rotterdam staat. Hij knutselde het hydraulische apparaat, ook Phillips Machine genoemd, in 1949 in elkaar om de theorie van de econoom Keynes te kunnen uitleggen. Als je maar geld pompte</description>
@@ -101,6 +90,17 @@
       <guid isPermaLink="false">4459234</guid>
       <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/7ecdd73d-0070-4e7c-941d-7b97f5e67352?width=397&amp;height=289">
         <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/7ecdd73d-0070-4e7c-941d-7b97f5e67352?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>Hoe gemeend is Silicon Valley's opstand tegen Trump?</title>
+      <link>http://www.volkskrant.nl/buitenland/hoe-gemeend-is-silicon-valley-s-opstand-tegen-trump~a4459301/</link>
+      <description>Grote merken kunnen zich niet veroorloven neutraal te staan tegenover Trumps beleid. Dat kost waarschijnlijk meer klanten dan stelling nemen. Zo wordt Silicon Valley met al zijn immigranten het centrum van het kosmopolitische verzet. Het gaat uiteindelijk natuurlijk gewoon om geld. De bedrijven die zich de afgelopen week tegen president Trump hebben gekeerd denken dat zij vroeg of laat beter af zi</description>
+      <pubDate>Wed, 08 Feb 2017 01:00:00 GMT</pubDate>
+      <author>Door: Michael Persson</author>
+      <guid isPermaLink="false">4459301</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/8335ce2b-0221-4f59-9c30-ad94f9e0ca6d?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/8335ce2b-0221-4f59-9c30-ad94f9e0ca6d?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -203,17 +203,6 @@
       </media:content>
     </item>
     <item>
-      <title>Doneer een boom: goed voor milieu, goed voor bedrijfsimago</title>
-      <link>http://www.volkskrant.nl/economie/doneer-een-boom-goed-voor-milieu-goed-voor-bedrijfsimago~a4458802/</link>
-      <description>Het klinkt zo sympathiek: betaal een paar euro extra voor uw aankoop en draag zo bij aan een betere wereld - bijvoorbeeld door een boom te doneren of een strandschoonmaak te sponsoren. Maar wie controleert of dat geld ook terechtkomt waar het hoort? Bij het betaalscherm krijgt de klant de keus voorgelegd: wil je wereldwijde boskap terugdringen? Laat dan een boom planten en betaal een tientje extra</description>
-      <pubDate>Tue, 07 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Eliane Lamper</author>
-      <guid isPermaLink="false">4458802</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/546db794-16b2-42e1-b223-6b5682216b09?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/546db794-16b2-42e1-b223-6b5682216b09?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
       <title>Gaan jongeren ten onder aan hun eigen solidariteit?</title>
       <link>http://www.volkskrant.nl/opinie/gaan-jongeren-ten-onder-aan-hun-eigen-solidariteit~a4458778/</link>
       <description>In een nog vijf weken durende verkiezingscampagne kunnen de kansen snel keren. In de 21ste eeuw beschikt tot nu toe geen enkele partij, hoe gevestigd ook, over een vaste achterban die goed is voor meer dan tien zetels. Maar er is ten minste één zekerheid: de jongeren zullen de grote verliezer worden. Sinds gebleken is dat verkiezingsdeelname van scholierenorganisatie LAKS nepnieuws was, ligt alle</description>
@@ -222,6 +211,17 @@
       <guid isPermaLink="false">4458778</guid>
       <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/3e9b517c-1480-4c69-ad08-b2caca226cec?width=397&amp;height=289">
         <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/3e9b517c-1480-4c69-ad08-b2caca226cec?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>Doneer een boom: goed voor milieu, goed voor bedrijfsimago</title>
+      <link>http://www.volkskrant.nl/economie/doneer-een-boom-goed-voor-milieu-goed-voor-bedrijfsimago~a4458802/</link>
+      <description>Het klinkt zo sympathiek: betaal een paar euro extra voor uw aankoop en draag zo bij aan een betere wereld - bijvoorbeeld door een boom te doneren of een strandschoonmaak te sponsoren. Maar wie controleert of dat geld ook terechtkomt waar het hoort? Bij het betaalscherm krijgt de klant de keus voorgelegd: wil je wereldwijde boskap terugdringen? Laat dan een boom planten en betaal een tientje extra</description>
+      <pubDate>Tue, 07 Feb 2017 01:00:00 GMT</pubDate>
+      <author>Door: Eliane Lamper</author>
+      <guid isPermaLink="false">4458802</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/546db794-16b2-42e1-b223-6b5682216b09?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/546db794-16b2-42e1-b223-6b5682216b09?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -302,17 +302,6 @@
       </media:content>
     </item>
     <item>
-      <title>Een complete chocoladefabriek neerzetten? Geen probleem</title>
-      <link>http://www.volkskrant.nl/economie/een-complete-chocoladefabriek-neerzetten-geen-probleem~a4458282/</link>
-      <description>Midden in het 'cacaohart' van Nederland ligt Royal Duyvis Wiener. Zie maar eens ergens op de wereld een chocoladereep te vinden waar haar machines níet aan te pas zijn gekomen. Vergeet Sjakie en de chocoladefabriek. Het echte wonder van de snoeptechniek ligt hier, aan de oever van de Zaan. Het zijn geen magische chocoladerivieren die door de onopvallende witte fabriekshal stromen. Oempa Loempa's w</description>
-      <pubDate>Mon, 06 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Koen Haegens</author>
-      <guid isPermaLink="false">4458282</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/1a6597f2-9150-437a-9b2f-19f6507ea0ba?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/1a6597f2-9150-437a-9b2f-19f6507ea0ba?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
       <title>Markt smartphones gaat op z'n kop</title>
       <link>http://www.volkskrant.nl/economie/markt-smartphones-gaat-op-z-n-kop~a4458358/</link>
       <description>Als per 1 mei in Nederland de populaire, dure mobieltjes worden beschouwd als lening, BKR-geregistreerd, wordt een goedkoper model aantrekkelijk. Een revolutie dreigt, met Apple als verliezer. Op een zonderling na heeft iedereen al jaren een mobiele telefoon. Althans, in Nederland. Elke twee jaar nemen we keurig een nieuw toestel, het liefst een topmodel van Samsung of Apple. Maar dat gaat verande</description>
@@ -321,6 +310,17 @@
       <guid isPermaLink="false">4458358</guid>
       <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/e959f679-c0e5-4cc8-88fb-e4885d8551cf?width=397&amp;height=289">
         <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/e959f679-c0e5-4cc8-88fb-e4885d8551cf?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>Een complete chocoladefabriek neerzetten? Geen probleem</title>
+      <link>http://www.volkskrant.nl/economie/een-complete-chocoladefabriek-neerzetten-geen-probleem~a4458282/</link>
+      <description>Midden in het 'cacaohart' van Nederland ligt Royal Duyvis Wiener. Zie maar eens ergens op de wereld een chocoladereep te vinden waar haar machines níet aan te pas zijn gekomen. Vergeet Sjakie en de chocoladefabriek. Het echte wonder van de snoeptechniek ligt hier, aan de oever van de Zaan. Het zijn geen magische chocoladerivieren die door de onopvallende witte fabriekshal stromen. Oempa Loempa's w</description>
+      <pubDate>Mon, 06 Feb 2017 01:00:00 GMT</pubDate>
+      <author>Door: Koen Haegens</author>
+      <guid isPermaLink="false">4458282</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/1a6597f2-9150-437a-9b2f-19f6507ea0ba?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/1a6597f2-9150-437a-9b2f-19f6507ea0ba?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -401,17 +401,6 @@
       </media:content>
     </item>
     <item>
-      <title>Opgelicht door agressieve aandelenverkopers</title>
-      <link>http://www.volkskrant.nl/binnenland/opgelicht-door-agressieve-aandelenverkopers~a4457862/</link>
-      <description>Berend van Rijssen is al zijn spaargeld kwijt, en meer. Langzaam maar zeker is hij financieel leeggezogen door agressieve aandelenverkopers. Het begon onschuldig, met 5.000 euro. Op 5 oktober 2015 gaat in het appartement van Berend van Rijssen de telefoon. Een beleefde Brit stelt zich voor als Michael Stone, senior account beheerder van beleggingsfirma Osaka Financial. Hij vraagt of Van Rijssen we</description>
-      <pubDate>Sat, 04 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Marc van den Eerenbeemt en Jeroen van Wensen</author>
-      <guid isPermaLink="false">4457862</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/d096dc98-8a3e-4061-a378-7af0bd4c6ee6?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/d096dc98-8a3e-4061-a378-7af0bd4c6ee6?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
       <title>Het utopische Centre Pompidou is 40 en geliefder dan ooit</title>
       <link>http://www.volkskrant.nl/beeldende-kunst/het-utopische-centre-pompidou-is-40-en-geliefder-dan-ooit~a4457835/</link>
       <description>Het Centre Pompidou in Parijs viert zijn 40-jarig bestaan. Het museum voor moderne kunst ademt lef uit, stelt Peter Giesen. Wanneer heeft Frankrijk die durf verloren? Wie heeft er geen herinneringen aan de roltrap van het Centre Pompidou? De perspex slang voert je langzaam omhoog, zodat je steeds meer van Parijs ziet, van de Eiffeltoren tot de karakteristieke zinken daken van de zandstenen apparte</description>
@@ -420,6 +409,17 @@
       <guid isPermaLink="false">4457835</guid>
       <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/f17eec5a-be51-4b00-bc1e-a76a999e6cb0?width=397&amp;height=289">
         <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/f17eec5a-be51-4b00-bc1e-a76a999e6cb0?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>Opgelicht door agressieve aandelenverkopers</title>
+      <link>http://www.volkskrant.nl/binnenland/opgelicht-door-agressieve-aandelenverkopers~a4457862/</link>
+      <description>Berend van Rijssen is al zijn spaargeld kwijt, en meer. Langzaam maar zeker is hij financieel leeggezogen door agressieve aandelenverkopers. Het begon onschuldig, met 5.000 euro. Op 5 oktober 2015 gaat in het appartement van Berend van Rijssen de telefoon. Een beleefde Brit stelt zich voor als Michael Stone, senior account beheerder van beleggingsfirma Osaka Financial. Hij vraagt of Van Rijssen we</description>
+      <pubDate>Sat, 04 Feb 2017 01:00:00 GMT</pubDate>
+      <author>Door: Marc van den Eerenbeemt en Jeroen van Wensen</author>
+      <guid isPermaLink="false">4457862</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/d096dc98-8a3e-4061-a378-7af0bd4c6ee6?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/d096dc98-8a3e-4061-a378-7af0bd4c6ee6?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>

@@ -6,8 +6,8 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>De Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Wed, 08 Feb 2017 08:42:06 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Feb 2017 08:42:06 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Feb 2017 10:20:14 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Feb 2017 10:20:14 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://static3.persgroep.net/volkskrant/static/img/logos/volkskrant/rss_logo.png?r=de9ef05e</url>
@@ -16,25 +16,14 @@
       <height>16</height>
     </image>
     <item>
-      <title>Een uitzonderlijk fenomeen: één basisschool, zeven meesters voor de klas</title>
-      <link>http://www.volkskrant.nl/opinie/een-uitzonderlijk-fenomeen-een-basisschool-zeven-meesters-voor-de-klas~a4459275/</link>
-      <description>Een forenzendorp bij Almelo koestert al decennia een steeds uitzonderlijker fenomeen: een openbare basisschool met zeven mannelijke leerkrachten. Widerode heet de school. Zij staat in Wierden in een onopvallende nieuwbouwwijk en we zouden dit ongelooflijke feit misschien nooit hebben vernomen als de mannen laatst niet breed gefotografeerd waren in dagblad Tubantia: Peter, Rudi, Marco, Rik, Mike, H</description>
-      <pubDate>Wed, 08 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Margriet Oostveen</author>
-      <guid isPermaLink="false">4459275</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/99a5b59d-7474-459b-acd8-bf43383b1543?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/99a5b59d-7474-459b-acd8-bf43383b1543?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
-      <title>Consument kan richting geven aan transitie naar duurzaamheid</title>
-      <link>http://www.volkskrant.nl/opinie/consument-kan-richting-geven-aan-transitie-naar-duurzaamheid~a4459225/</link>
-      <description>De ingezonden brieven van woensdag 8 februari. De oproep van de 8 natuur- en milieuorganisaties om te komen tot een transitie naar een 'natuurinclusieve' landbouw, verdient alle steun en navolging. Een wat onderbelicht aspect in het stuk is de teloorgang van de bodemvruchtbaarheid, mede door het jarenlange gebruik van pesticiden en kunstmest. Zie het interview met de akkerbouwer Peter Harry Mulder</description>
-      <pubDate>Wed, 08 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Redactie</author>
-      <guid isPermaLink="false">4459225</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/832eac3f-64e2-46c3-8e38-837da22131e5?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/832eac3f-64e2-46c3-8e38-837da22131e5?width=397&amp;height=289" />
+      <title>Opinieblog - Ayaan Hirsi Ali: 'Ik sta achter Trumps benadering van de radicale islam'</title>
+      <link>http://www.volkskrant.nl/opinie/opinieblog-ayaan-hirsi-ali-ik-sta-achter-trumps-benadering-van-de-radicale-islam~a4459022/</link>
+      <description>Een selectie van interessante debatten op internet en in andere media, bij elkaar geblogd door opinieredacteuren van de Volkskrant.</description>
+      <pubDate>Wed, 08 Feb 2017 10:13:00 GMT</pubDate>
+      <author>Door: Arnout Brouwers, Laura De Jong, Henk Müller, Chris Rutenfrans, Hans Wansink</author>
+      <guid isPermaLink="false">4459022</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/c9374362-9f31-46ff-a066-4de3e5dc2188?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/c9374362-9f31-46ff-a066-4de3e5dc2188?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -71,6 +60,28 @@
       </media:content>
     </item>
     <item>
+      <title>Een uitzonderlijk fenomeen: één basisschool, zeven meesters voor de klas</title>
+      <link>http://www.volkskrant.nl/opinie/een-uitzonderlijk-fenomeen-een-basisschool-zeven-meesters-voor-de-klas~a4459275/</link>
+      <description>Een forenzendorp bij Almelo koestert al decennia een steeds uitzonderlijker fenomeen: een openbare basisschool met zeven mannelijke leerkrachten. Widerode heet de school. Zij staat in Wierden in een onopvallende nieuwbouwwijk en we zouden dit ongelooflijke feit misschien nooit hebben vernomen als de mannen laatst niet breed gefotografeerd waren in dagblad Tubantia: Peter, Rudi, Marco, Rik, Mike, H</description>
+      <pubDate>Wed, 08 Feb 2017 01:00:00 GMT</pubDate>
+      <author>Door: Margriet Oostveen</author>
+      <guid isPermaLink="false">4459275</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/99a5b59d-7474-459b-acd8-bf43383b1543?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/99a5b59d-7474-459b-acd8-bf43383b1543?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>Consument kan richting geven aan transitie naar duurzaamheid</title>
+      <link>http://www.volkskrant.nl/opinie/consument-kan-richting-geven-aan-transitie-naar-duurzaamheid~a4459225/</link>
+      <description>De ingezonden brieven van woensdag 8 februari. De oproep van de 8 natuur- en milieuorganisaties om te komen tot een transitie naar een 'natuurinclusieve' landbouw, verdient alle steun en navolging. Een wat onderbelicht aspect in het stuk is de teloorgang van de bodemvruchtbaarheid, mede door het jarenlange gebruik van pesticiden en kunstmest. Zie het interview met de akkerbouwer Peter Harry Mulder</description>
+      <pubDate>Wed, 08 Feb 2017 01:00:00 GMT</pubDate>
+      <author>Door: Redactie</author>
+      <guid isPermaLink="false">4459225</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/832eac3f-64e2-46c3-8e38-837da22131e5?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/832eac3f-64e2-46c3-8e38-837da22131e5?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
       <title>Kunnen we leren van de geschiedenis?</title>
       <link>http://www.volkskrant.nl/opinie/kunnen-we-leren-van-de-geschiedenis~a4459203/</link>
       <description>'Er staan twee mannen in de rij voor de gaskamer. Zegt de ene man tegen de andere: Ze gebruiken hier geen Zyklon B, dus die holocaustvergelijking van jou gaat mank.' Gelezen op Twitter. Een paar jaar geleden werd iedere vergelijking met Hitler afgedaan als een Godwin oftewel een bewijs van retorisch onvermogen. Deze dagen hoor je dat verwijt niet vaak meer. Nu kan niemand om de vraag heen of de ve</description>
@@ -101,6 +112,27 @@
       <guid isPermaLink="false">4459270</guid>
       <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/33893364-15ab-4189-a2ec-0102c8065e46?width=397&amp;height=289">
         <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/33893364-15ab-4189-a2ec-0102c8065e46?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>'Dit is Roemenië's fluwelen revolutie'</title>
+      <link>http://www.volkskrant.nl/opinie/-dit-is-roemenie-s-fluwelen-revolutie~a4459224/</link>
+      <description>Op mijn Facebookpagina staat een collage van twee foto's: links zie je een man van 25 die tijdens de revolutie van dertig jaar geleden demonstreert met een spandoek: 'Onze kinderen zullen vrij zijn'. En daarnaast een prachtige jonge vrouw die vandaag in Boekarest staat met een spandoek: 'De kinderen van de revolutie zijn hier'. Daar krijg ik kippenvel van. Daar zie je dat de strijd van dertig jaar</description>
+      <pubDate>Wed, 08 Feb 2017 01:00:00 GMT</pubDate>
+      <author>Door: Chris Rutenfrans</author>
+      <guid isPermaLink="false">4459224</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/8ca12c6e-60fd-44bb-9107-b54cfd8a45d7?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/8ca12c6e-60fd-44bb-9107-b54cfd8a45d7?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>Zal Nederland terug verlangen naar de Polen?</title>
+      <link>http://www.volkskrant.nl/opinie/zal-nederland-terug-verlangen-naar-de-polen~a4459204/</link>
+      <description>Nederland moet Polen steunen in de strijd tegen protectionistische praktijken. Juist op het moment dat ik deze woorden schrijf zijn in Polen 3.500 Nederlandse soldaten aan het oefenen in het kader van 'Bizon Drawsko 2017'. Toen ik een Nederlandse kennis vroeg of hij wel wist dat zich momenteel in Polen de grootste concentratie Nederlandse troepen in de geschiedenis van onze betrekkingen bevond, an</description>
+      <pubDate>Wed, 08 Feb 2017 01:00:00 GMT</pubDate>
+      <guid isPermaLink="false">4459204</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/bd408f7a-1fd0-48d3-a2cb-a19bfb78a387?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/bd408f7a-1fd0-48d3-a2cb-a19bfb78a387?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -148,27 +180,6 @@
       </media:content>
     </item>
     <item>
-      <title>Zal Nederland terug verlangen naar de Polen?</title>
-      <link>http://www.volkskrant.nl/opinie/zal-nederland-terug-verlangen-naar-de-polen~a4459204/</link>
-      <description>Nederland moet Polen steunen in de strijd tegen protectionistische praktijken. Juist op het moment dat ik deze woorden schrijf zijn in Polen 3.500 Nederlandse soldaten aan het oefenen in het kader van 'Bizon Drawsko 2017'. Toen ik een Nederlandse kennis vroeg of hij wel wist dat zich momenteel in Polen de grootste concentratie Nederlandse troepen in de geschiedenis van onze betrekkingen bevond, an</description>
-      <pubDate>Wed, 08 Feb 2017 01:00:00 GMT</pubDate>
-      <guid isPermaLink="false">4459204</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/cc3241d9-f942-48b2-9304-5f605a6cb6ce?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/cc3241d9-f942-48b2-9304-5f605a6cb6ce?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
-      <title>'Dit is Roemenië's fluwelen revolutie'</title>
-      <link>http://www.volkskrant.nl/opinie/-dit-is-roemenie-s-fluwelen-revolutie~a4459224/</link>
-      <description>Op mijn Facebookpagina staat een collage van twee foto's: links zie je een man van 25 die tijdens de revolutie van dertig jaar geleden demonstreert met een spandoek: 'Onze kinderen zullen vrij zijn'. En daarnaast een prachtige jonge vrouw die vandaag in Boekarest staat met een spandoek: 'De kinderen van de revolutie zijn hier'. Daar krijg ik kippenvel van. Daar zie je dat de strijd van dertig jaar</description>
-      <pubDate>Wed, 08 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Chris Rutenfrans</author>
-      <guid isPermaLink="false">4459224</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/8ca12c6e-60fd-44bb-9107-b54cfd8a45d7?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/8ca12c6e-60fd-44bb-9107-b54cfd8a45d7?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
       <title>Zo moet het zijn om naar een pornobioscoopje te gaan</title>
       <link>http://www.volkskrant.nl/opinie/zo-moet-het-zijn-om-naar-een-pornobioscoopje-te-gaan~a4459179/</link>
       <description>Ouders van jonge kinderen hebben het vaak over het moment waarop ze wisten dat ze 'hun leven weer terug hadden'. Dit impliceert dat jonge kinderen je je leven afnemen, wat niet waar is, maar goed, het is wel waar dat je een paar jaar vrij veel met natte doekjes in de weer bent en weinig met, bijvoorbeeld, naar de opera gaan. Ik wist dat ik mijn leven terughad toen ik deze week met mijn vriend naar</description>
@@ -180,14 +191,25 @@
       </media:content>
     </item>
     <item>
-      <title>Opinieblog - 'Het gaat de Roemeense demonstranten om de rechtsstaat'</title>
-      <link>http://www.volkskrant.nl/opinie/opinieblog-het-gaat-de-roemeense-demonstranten-om-de-rechtsstaat~a4459022/</link>
-      <description>Een selectie van interessante debatten op internet en in andere media, bij elkaar geblogd door opinieredacteuren van de Volkskrant.</description>
-      <pubDate>Tue, 07 Feb 2017 10:50:00 GMT</pubDate>
-      <author>Door: Arnout Brouwers, Laura De Jong, Henk Müller, Chris Rutenfrans, Hans Wansink</author>
-      <guid isPermaLink="false">4459022</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/60b7f1a8-d66c-438b-a216-5efa00d37214?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/60b7f1a8-d66c-438b-a216-5efa00d37214?width=397&amp;height=289" />
+      <title>Gaan jongeren ten onder aan hun eigen solidariteit?</title>
+      <link>http://www.volkskrant.nl/opinie/gaan-jongeren-ten-onder-aan-hun-eigen-solidariteit~a4458778/</link>
+      <description>In een nog vijf weken durende verkiezingscampagne kunnen de kansen snel keren. In de 21ste eeuw beschikt tot nu toe geen enkele partij, hoe gevestigd ook, over een vaste achterban die goed is voor meer dan tien zetels. Maar er is ten minste één zekerheid: de jongeren zullen de grote verliezer worden. Sinds gebleken is dat verkiezingsdeelname van scholierenorganisatie LAKS nepnieuws was, ligt alle</description>
+      <pubDate>Tue, 07 Feb 2017 01:00:00 GMT</pubDate>
+      <author>Door: Peter de Waard</author>
+      <guid isPermaLink="false">4458778</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/3e9b517c-1480-4c69-ad08-b2caca226cec?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/3e9b517c-1480-4c69-ad08-b2caca226cec?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>Die twee Hongaarse tomaten staan me bij als rood goud</title>
+      <link>http://www.volkskrant.nl/opinie/die-twee-hongaarse-tomaten-staan-me-bij-als-rood-goud~a4458718/</link>
+      <description>Goed nieuws onlangs in deze krant: de tomaat kan weer de 'oude' smaak krijgen. Wetenschappers menen te weten, aldus het bericht, hoe de originele tomatensmaak kan worden teruggebracht: kwestie van selecteren op 'oude' genen. Toevallig meen ik te weten hoe de 'oude' tomaat smaakt. Die at ik in 1987. Terwijl het vrije Europa zuchtte onder de Nederlandse waterbommen die de naam tomaat droegen, was ik</description>
+      <pubDate>Tue, 07 Feb 2017 01:00:00 GMT</pubDate>
+      <author>Door: Caspar Janssen</author>
+      <guid isPermaLink="false">4458718</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/108089f6-35f4-4b56-8218-567fcb47657f?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/108089f6-35f4-4b56-8218-567fcb47657f?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -212,25 +234,14 @@
       </media:content>
     </item>
     <item>
-      <title>Die twee Hongaarse tomaten staan me bij als rood goud</title>
-      <link>http://www.volkskrant.nl/opinie/die-twee-hongaarse-tomaten-staan-me-bij-als-rood-goud~a4458718/</link>
-      <description>Goed nieuws onlangs in deze krant: de tomaat kan weer de 'oude' smaak krijgen. Wetenschappers menen te weten, aldus het bericht, hoe de originele tomatensmaak kan worden teruggebracht: kwestie van selecteren op 'oude' genen. Toevallig meen ik te weten hoe de 'oude' tomaat smaakt. Die at ik in 1987. Terwijl het vrije Europa zuchtte onder de Nederlandse waterbommen die de naam tomaat droegen, was ik</description>
+      <title>Berouw over de moord op Fortuyn kan niet worden afgedwongen</title>
+      <link>http://www.volkskrant.nl/opinie/berouw-over-de-moord-op-fortuyn-kan-niet-worden-afgedwongen~a4458753/</link>
+      <description>Hoe betreurenswaardig ook: de rechter kan gedragsverandering bij Volkert van der G. niet afdwingen. De vraag of Volkert van der G., de moordenaar van Pim Fortuyn, 'voldoende zijn best heeft gedaan' in de gesprekken met de reclassering is niet te beantwoorden. Ook niet door de Amsterdamse rechters die zich bogen over de eis van het Openbaar Ministerie om zijn niet-coöperatieve houding te bestraffen</description>
       <pubDate>Tue, 07 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Caspar Janssen</author>
-      <guid isPermaLink="false">4458718</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/108089f6-35f4-4b56-8218-567fcb47657f?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/108089f6-35f4-4b56-8218-567fcb47657f?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
-      <title>Gaan jongeren ten onder aan hun eigen solidariteit?</title>
-      <link>http://www.volkskrant.nl/opinie/gaan-jongeren-ten-onder-aan-hun-eigen-solidariteit~a4458778/</link>
-      <description>In een nog vijf weken durende verkiezingscampagne kunnen de kansen snel keren. In de 21ste eeuw beschikt tot nu toe geen enkele partij, hoe gevestigd ook, over een vaste achterban die goed is voor meer dan tien zetels. Maar er is ten minste één zekerheid: de jongeren zullen de grote verliezer worden. Sinds gebleken is dat verkiezingsdeelname van scholierenorganisatie LAKS nepnieuws was, ligt alle</description>
-      <pubDate>Tue, 07 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Peter de Waard</author>
-      <guid isPermaLink="false">4458778</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/3e9b517c-1480-4c69-ad08-b2caca226cec?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/3e9b517c-1480-4c69-ad08-b2caca226cec?width=397&amp;height=289" />
+      <author>Door: Sander van Walsum</author>
+      <guid isPermaLink="false">4458753</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/9fbe1043-2437-4d34-907a-7626fa0e4fd5?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/9fbe1043-2437-4d34-907a-7626fa0e4fd5?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -245,28 +256,6 @@
       </media:content>
     </item>
     <item>
-      <title>'Het zou mooi zijn als meteoriet Macron inslaat'</title>
-      <link>http://www.volkskrant.nl/opinie/-het-zou-mooi-zijn-als-meteoriet-macron-inslaat~a4458723/</link>
-      <description>In november 2016 zond de Franse televisiezender France 3 een bijna anderhalf uur durende documentaire van Pierre Huvel uit, onder de titel La stratégie du météore. De meteoor in kwestie heet Emmanuel Macron, is 39 jaar oud, voormalig minister van Economische Zaken onder president Hollande en gefortuneerd ex-bankier bij de investeringsbank De Rothschild. April vorig jaar begon hij zijn eigen politi</description>
-      <pubDate>Tue, 07 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Bert Wagendorp</author>
-      <guid isPermaLink="false">4458723</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/ce7578bf-d55a-4062-bec2-2ae0424a0d5e?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/ce7578bf-d55a-4062-bec2-2ae0424a0d5e?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
-      <title>Berouw over de moord op Fortuyn kan niet worden afgedwongen</title>
-      <link>http://www.volkskrant.nl/opinie/berouw-over-de-moord-op-fortuyn-kan-niet-worden-afgedwongen~a4458753/</link>
-      <description>Hoe betreurenswaardig ook: de rechter kan gedragsverandering bij Volkert van der G. niet afdwingen. De vraag of Volkert van der G., de moordenaar van Pim Fortuyn, 'voldoende zijn best heeft gedaan' in de gesprekken met de reclassering is niet te beantwoorden. Ook niet door de Amsterdamse rechters die zich bogen over de eis van het Openbaar Ministerie om zijn niet-coöperatieve houding te bestraffen</description>
-      <pubDate>Tue, 07 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Sander van Walsum</author>
-      <guid isPermaLink="false">4458753</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/9fbe1043-2437-4d34-907a-7626fa0e4fd5?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/9fbe1043-2437-4d34-907a-7626fa0e4fd5?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
       <title>Vergelijk rechts-populisme niet met het fascisme</title>
       <link>http://www.volkskrant.nl/opinie/vergelijk-rechts-populisme-niet-met-het-fascisme~a4458786/</link>
       <description>Het gelijkschakelen van het populisme van Trump en zijn Europese geestverwanten met het fascisme is niet alleen misleidend. Het is spelen met vuur. Op de cover van het Duitse weekblad Der Spiegel van deze week houdt Donald Trump het bebloede hoofd van Lady Liberty, het Amerikaanse Vrijheidsbeeld, in zijn rechterhand en in zijn linkerhand de machete waarmee hij de onthoofding heeft gepleegd. Je kun</description>
@@ -278,14 +267,14 @@
       </media:content>
     </item>
     <item>
-      <title>Een relaxed ouder wordende vrouw als redding van Europa</title>
-      <link>http://www.volkskrant.nl/opinie/een-relaxed-ouder-wordende-vrouw-als-redding-van-europa~a4458764/</link>
-      <description>De 39-jarige Emmanuel Macron wordt de nieuwe president van Frankrijk en trekt Europa uit het slop. Hij gaat de verkiezingen winnen dankzij zijn vrouw. Niet omdat dat zo'n lekker jong ding is maar juist omdat ze dat niet is en ook niet wanhopig probeert er toch een te lijken. Macrons echtgenote Brigitte Trogneux - ze trouwden in 2007 - is 24 jaar ouder dan hij, ze was zijn lerares en bracht de jong</description>
+      <title>'Het zou mooi zijn als meteoriet Macron inslaat'</title>
+      <link>http://www.volkskrant.nl/opinie/-het-zou-mooi-zijn-als-meteoriet-macron-inslaat~a4458723/</link>
+      <description>In november 2016 zond de Franse televisiezender France 3 een bijna anderhalf uur durende documentaire van Pierre Huvel uit, onder de titel La stratégie du météore. De meteoor in kwestie heet Emmanuel Macron, is 39 jaar oud, voormalig minister van Economische Zaken onder president Hollande en gefortuneerd ex-bankier bij de investeringsbank De Rothschild. April vorig jaar begon hij zijn eigen politi</description>
       <pubDate>Tue, 07 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Wilma de Rek</author>
-      <guid isPermaLink="false">4458764</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/2d0aa844-0d49-4ab0-8788-4261c5f290f6?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/2d0aa844-0d49-4ab0-8788-4261c5f290f6?width=397&amp;height=289" />
+      <author>Door: Bert Wagendorp</author>
+      <guid isPermaLink="false">4458723</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/ce7578bf-d55a-4062-bec2-2ae0424a0d5e?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/ce7578bf-d55a-4062-bec2-2ae0424a0d5e?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -297,6 +286,28 @@
       <guid isPermaLink="false">4458724</guid>
       <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/51be5fb0-4655-41e1-a3c4-fb3998716874?width=397&amp;height=289">
         <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/51be5fb0-4655-41e1-a3c4-fb3998716874?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>Melania Trump getuigt van feministische moed</title>
+      <link>http://www.volkskrant.nl/opinie/melania-trump-getuigt-van-feministische-moed~a4458787/</link>
+      <description>Melania Trump weigert vooralsnog te zwichten voor het traditionele verwachtingspatroon inzake presidentsvrouwen. En gelijk heeft ze, schrijft New York Times-columnist Maureen Dowd. Boven op de Trump Toren van beangstigende dingen waarover we ons zorgen moeten maken - oorlog met Iran, oorlog met Mexico, oorlog met de islam, oorlog met koalabeertjes - ligt nu nog een dreigende ramp. Terwijl onze ove</description>
+      <pubDate>Tue, 07 Feb 2017 01:00:00 GMT</pubDate>
+      <author>Door: Maureen Dowd</author>
+      <guid isPermaLink="false">4458787</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/68050933-c454-4918-acb1-1425ba3a977c?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/68050933-c454-4918-acb1-1425ba3a977c?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>Een relaxed ouder wordende vrouw als redding van Europa</title>
+      <link>http://www.volkskrant.nl/opinie/een-relaxed-ouder-wordende-vrouw-als-redding-van-europa~a4458764/</link>
+      <description>De 39-jarige Emmanuel Macron wordt de nieuwe president van Frankrijk en trekt Europa uit het slop. Hij gaat de verkiezingen winnen dankzij zijn vrouw. Niet omdat dat zo'n lekker jong ding is maar juist omdat ze dat niet is en ook niet wanhopig probeert er toch een te lijken. Macrons echtgenote Brigitte Trogneux - ze trouwden in 2007 - is 24 jaar ouder dan hij, ze was zijn lerares en bracht de jong</description>
+      <pubDate>Tue, 07 Feb 2017 01:00:00 GMT</pubDate>
+      <author>Door: Wilma de Rek</author>
+      <guid isPermaLink="false">4458764</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/2d0aa844-0d49-4ab0-8788-4261c5f290f6?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/2d0aa844-0d49-4ab0-8788-4261c5f290f6?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -319,17 +330,6 @@
       <guid isPermaLink="false">4458794</guid>
       <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/ed12fb24-5795-4f75-b814-9f06195090ba?width=397&amp;height=289">
         <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/ed12fb24-5795-4f75-b814-9f06195090ba?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
-      <title>Melania Trump getuigt van feministische moed</title>
-      <link>http://www.volkskrant.nl/opinie/melania-trump-getuigt-van-feministische-moed~a4458787/</link>
-      <description>Melania Trump weigert vooralsnog te zwichten voor het traditionele verwachtingspatroon inzake presidentsvrouwen. En gelijk heeft ze, schrijft New York Times-columnist Maureen Dowd. Boven op de Trump Toren van beangstigende dingen waarover we ons zorgen moeten maken - oorlog met Iran, oorlog met Mexico, oorlog met de islam, oorlog met koalabeertjes - ligt nu nog een dreigende ramp. Terwijl onze ove</description>
-      <pubDate>Tue, 07 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Maureen Dowd</author>
-      <guid isPermaLink="false">4458787</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/68050933-c454-4918-acb1-1425ba3a977c?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/68050933-c454-4918-acb1-1425ba3a977c?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -409,6 +409,17 @@
       </media:content>
     </item>
     <item>
+      <title>Waar conformisme deugd is, dreigt onvruchtbaarheid</title>
+      <link>http://www.volkskrant.nl/opinie/waar-conformisme-deugd-is-dreigt-onvruchtbaarheid~a4458331/</link>
+      <description>'De samenleving is nu netter, veiliger, preciezer en waarschijnlijk minder tolerant geworden voor afwijkend gedrag', aldus ggz-onderzoeker Bauke Koekkoek vorige week dinsdag in de Volkskrant in een interview door Charlotte Huisman. Koekkoek stelt dat de term 'verwarde personen' zo verwaterd is dat iedereen die sociaal onwenselijk gedrag vertoont 'een verward persoon' kan worden genoemd. Ook meent</description>
+      <pubDate>Mon, 06 Feb 2017 01:00:00 GMT</pubDate>
+      <author>Door: Arnon Grunberg</author>
+      <guid isPermaLink="false">4458331</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/37c7103b-7f32-4132-a020-a4f0d6fb82a1?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/37c7103b-7f32-4132-a020-a4f0d6fb82a1?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
       <title>Een paar observaties over de nationale Bilderbergconferentie</title>
       <link>http://www.volkskrant.nl/opinie/een-paar-observaties-over-de-nationale-bilderbergconferentie~a4458311/</link>
       <description>Elk jaar vindt er in de bossen bij Arnhem een semi-geheime polderbijeenkomst plaats. Topondernemers, politici, wetenschappers en een enkele journalist confereren twee dagen lang in een hotel over de toekomst van Nederland. In die bossen werd ooit vergeefs de Slag om Arnhem uitgevochten, maar dat heeft verder geen enkele symbolische betekenis. Die half-geheime bijeenkomst heet, schrik niet, de Bild</description>
@@ -428,17 +439,6 @@
       <guid isPermaLink="false">4458294</guid>
       <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/d0c1de0e-cded-4cf2-937f-5eb042abd6df?width=397&amp;height=289">
         <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/d0c1de0e-cded-4cf2-937f-5eb042abd6df?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
-      <title>Waar conformisme deugd is, dreigt onvruchtbaarheid</title>
-      <link>http://www.volkskrant.nl/opinie/waar-conformisme-deugd-is-dreigt-onvruchtbaarheid~a4458331/</link>
-      <description>'De samenleving is nu netter, veiliger, preciezer en waarschijnlijk minder tolerant geworden voor afwijkend gedrag', aldus ggz-onderzoeker Bauke Koekkoek vorige week dinsdag in de Volkskrant in een interview door Charlotte Huisman. Koekkoek stelt dat de term 'verwarde personen' zo verwaterd is dat iedereen die sociaal onwenselijk gedrag vertoont 'een verward persoon' kan worden genoemd. Ook meent</description>
-      <pubDate>Mon, 06 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Arnon Grunberg</author>
-      <guid isPermaLink="false">4458331</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/37c7103b-7f32-4132-a020-a4f0d6fb82a1?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/37c7103b-7f32-4132-a020-a4f0d6fb82a1?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>

@@ -6,8 +6,8 @@
     <description>Volkskrant.nl biedt het laatste nieuws, opinie en achtergronden</description>
     <language>nl-NL</language>
     <copyright>De Persgroep Publishing Nederland NV</copyright>
-    <pubDate>Wed, 08 Feb 2017 08:45:46 GMT</pubDate>
-    <lastBuildDate>Wed, 08 Feb 2017 08:45:46 GMT</lastBuildDate>
+    <pubDate>Wed, 08 Feb 2017 10:30:02 GMT</pubDate>
+    <lastBuildDate>Wed, 08 Feb 2017 10:30:02 GMT</lastBuildDate>
     <image>
       <title>Volkskrant.nl - laatste nieuws, opinie en achtergronden</title>
       <url>http://static3.persgroep.net/volkskrant/static/img/logos/volkskrant/rss_logo.png?r=de9ef05e</url>
@@ -15,6 +15,17 @@
       <width>16</width>
       <height>16</height>
     </image>
+    <item>
+      <title>Ontwerpers boos over onbetaalde decorpitch voor VPRO's Zomergasten</title>
+      <link>http://www.volkskrant.nl/media/ontwerpers-boos-over-onbetaalde-decorpitch-voor-vpro-s-zomergasten~a4459603/</link>
+      <description>Onder ontwerpers is verontwaardiging ontstaan over de pitch die de VPRO heeft uitgeschreven rond een nieuw decor voor het jaarlijkse tv-programma Zomergasten. De omroep heeft ontwerpers 'en andere creatieve geesten' uitgenodigd hiervoor ideeën aan te leveren. De verontwaardiging richt zich op de minimale vergoeding die de omroep hier voor over heeft. Zo is de beroepsorganisatie BNO tegen onbetaald</description>
+      <pubDate>Wed, 08 Feb 2017 09:49:00 GMT</pubDate>
+      <author>Door: Jeroen Junte</author>
+      <guid isPermaLink="false">4459603</guid>
+      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/b083e39d-edcb-4a6d-94ec-b62f58057630?width=397&amp;height=289">
+        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/b083e39d-edcb-4a6d-94ec-b62f58057630?width=397&amp;height=289" />
+      </media:content>
+    </item>
     <item>
       <title>Santa Clarita Diet gaat niet de duistere diepten in</title>
       <link>http://www.volkskrant.nl/recensies/santa-clarita-diet-gaat-niet-de-duistere-diepten-in~a4459188/</link>
@@ -82,17 +93,6 @@
       </media:content>
     </item>
     <item>
-      <title>De Volkskrant tv-selectie voor dinsdag 7 februari</title>
-      <link>http://www.volkskrant.nl/televisie/de-volkskrant-tv-selectie-voor-dinsdag-7-februari~a4458740/</link>
-      <description>Elke dag tipt de redactie van de Volkskrant de beste programma's en films op televisie. Dit moet u vandaag zien. (Walter Hill, 1993) RTL 7, 00.25-02.20 uurWe worden de film binnengeleid door de jonge voice-over van Matt Damon. Hij was 22 tijdens de opnamen en speelde een van zijn eerste grote rollen in Geronimo. An American Legend. Die film had een western moeten worden over de strijd en overgave</description>
-      <pubDate>Tue, 07 Feb 2017 01:00:00 GMT</pubDate>
-      <author>Door: Bart Koetsenruijter</author>
-      <guid isPermaLink="false">4458740</guid>
-      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/6c7dfaf1-bb72-4f73-9557-c0f6749c2273?width=397&amp;height=289">
-        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/6c7dfaf1-bb72-4f73-9557-c0f6749c2273?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
       <title>Homo als hoofdpersonage komt er bij Nederlandse zenderbazen nog niet in</title>
       <link>http://www.volkskrant.nl/televisie/homo-als-hoofdpersonage-komt-er-bij-nederlandse-zenderbazen-nog-niet-in~a4458816/</link>
       <description>De gay dramaserie floreert op internet. Jammer dat Nederlandse zenderbazen nog altijd zo huiverig zijn. Onlangs bevestigde de Amerikaanse zender NBC dat er een nieuwe reeks Will &amp; Grace komt. Opmerkelijk, want de laatste aflevering van de populaire comedy stamt uit 2006. Destijds was de serie baanbrekend, de eerste sitcom met een homoman als hoofdpersonage. In ruim tien jaar lijkt er weinig verand</description>
@@ -101,6 +101,17 @@
       <guid isPermaLink="false">4458816</guid>
       <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/faff442e-4fc6-42ce-9d8f-add4231d9dc0?width=397&amp;height=289">
         <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/faff442e-4fc6-42ce-9d8f-add4231d9dc0?width=397&amp;height=289" />
+      </media:content>
+    </item>
+    <item>
+      <title>De Volkskrant tv-selectie voor dinsdag 7 februari</title>
+      <link>http://www.volkskrant.nl/televisie/de-volkskrant-tv-selectie-voor-dinsdag-7-februari~a4458740/</link>
+      <description>Elke dag tipt de redactie van de Volkskrant de beste programma's en films op televisie. Dit moet u vandaag zien. (Walter Hill, 1993) RTL 7, 00.25-02.20 uurWe worden de film binnengeleid door de jonge voice-over van Matt Damon. Hij was 22 tijdens de opnamen en speelde een van zijn eerste grote rollen in Geronimo. An American Legend. Die film had een western moeten worden over de strijd en overgave</description>
+      <pubDate>Tue, 07 Feb 2017 01:00:00 GMT</pubDate>
+      <author>Door: Bart Koetsenruijter</author>
+      <guid isPermaLink="false">4458740</guid>
+      <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/6c7dfaf1-bb72-4f73-9557-c0f6749c2273?width=397&amp;height=289">
+        <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/6c7dfaf1-bb72-4f73-9557-c0f6749c2273?width=397&amp;height=289" />
       </media:content>
     </item>
     <item>
@@ -440,17 +451,6 @@
       <guid isPermaLink="false">4453376</guid>
       <media:content type="image/jpeg" url="http://static1.persgroep.net/volkskrant/image/0a51d6e4-5cc0-4783-b870-ce46780e7fe9?width=397&amp;height=289">
         <media:thumbnail url="http://static1.persgroep.net/volkskrant/image/0a51d6e4-5cc0-4783-b870-ce46780e7fe9?width=397&amp;height=289" />
-      </media:content>
-    </item>
-    <item>
-      <title>Films Amazon, Netflix en Google vernieuwen Oscarnominaties</title>
-      <link>http://www.volkskrant.nl/film/films-amazon-netflix-en-google-vernieuwen-oscarnominaties~a4453284/</link>
-      <description>Innovateurs in de filmwereld deden dinsdag goede zaken bij de Oscarnominaties. Google's virtual-realityfilm Pearl kreeg de nominatie voor beste korte geanimeerde film, Netflix' 13th kreeg de nominatie voor beste documentaire en Amazons Manchester by the Sea kreeg de nominatie voor beste film. Het is een belangrijke prestigeslag voor Amazon. Netflix kreeg in de afgelopen jaren meerdere nominaties v</description>
-      <pubDate>Wed, 25 Jan 2017 17:25:00 GMT</pubDate>
-      <author>Door: Redactie</author>
-      <guid isPermaLink="false">4453284</guid>
-      <media:content type="image/jpeg" url="http://static0.persgroep.net/volkskrant/image/616eb2f7-3b21-4643-8416-fe12acdb517b?width=397&amp;height=289">
-        <media:thumbnail url="http://static0.persgroep.net/volkskrant/image/616eb2f7-3b21-4643-8416-fe12acdb517b?width=397&amp;height=289" />
       </media:content>
     </item>
   </channel>
